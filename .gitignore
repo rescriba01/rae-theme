@@ -220,5 +220,10 @@ wp-config.php
 #/wp-content/themes
 
 
+# always ignore files with these extensions
+*.sql
+*.bak
+*.swp
+
 # End of https://www.toptal.com/developers/gitignore/api/wordpress,visualstudiocode,node,macos
 
