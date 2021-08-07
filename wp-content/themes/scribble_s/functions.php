@@ -51,6 +51,7 @@ if ( ! function_exists( 'scribble_s_setup' ) ) :
 		register_nav_menus(
 			array(
 				'menu-1' => esc_html__( 'Primary', 'scribble_s' ),
+				'menu-2' => esc_html__('Mobile', 'scribble_s'),
 			)
 		);
 
