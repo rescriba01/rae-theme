@@ -75,6 +75,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+vendor/
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
@@ -179,6 +180,7 @@ dist
 /wp-content/themes/index.php
 !wp-content/themes/scribble_s
 !wp-content/themes/scribble_s/index.php
+
 /wp-includes/
 /index.php
 /license.txt
