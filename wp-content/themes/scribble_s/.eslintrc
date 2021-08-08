@@ -4,5 +4,9 @@
     ],
     "env": {
         "browser": true
+    },
+    "rules": {
+        // Override default settings just for this directory (I hope)
+        "comma-dangle":"off"
     }
 }

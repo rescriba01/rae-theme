@@ -4776,7 +4776,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-admin\/js\/widgets\/custom-html-widgets-min.js",
+      "oAP" : "\/wp-admin\/js\/js\/custom-html-widgets-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -4787,7 +4787,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-admin\/js\/widgets\/custom-html-widgets.min-min.js",
+      "oAP" : "\/wp-admin\/js\/js\/custom-html-widgets.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -4798,7 +4798,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-admin\/js\/widgets\/media-audio-widget-min.js",
+      "oAP" : "\/wp-admin\/js\/js\/media-audio-widget-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -4809,7 +4809,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-admin\/js\/widgets\/media-audio-widget.min-min.js",
+      "oAP" : "\/wp-admin\/js\/js\/media-audio-widget.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -4820,7 +4820,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-admin\/js\/widgets\/media-gallery-widget-min.js",
+      "oAP" : "\/wp-admin\/js\/js\/media-gallery-widget-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -4831,7 +4831,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-admin\/js\/widgets\/media-gallery-widget.min-min.js",
+      "oAP" : "\/wp-admin\/js\/js\/media-gallery-widget.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -4842,7 +4842,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-admin\/js\/widgets\/media-image-widget-min.js",
+      "oAP" : "\/wp-admin\/js\/js\/media-image-widget-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -4853,7 +4853,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-admin\/js\/widgets\/media-image-widget.min-min.js",
+      "oAP" : "\/wp-admin\/js\/js\/media-image-widget.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -4864,7 +4864,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-admin\/js\/widgets\/media-video-widget-min.js",
+      "oAP" : "\/wp-admin\/js\/js\/media-video-widget-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -4875,7 +4875,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-admin\/js\/widgets\/media-video-widget.min-min.js",
+      "oAP" : "\/wp-admin\/js\/js\/media-video-widget.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -4886,7 +4886,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-admin\/js\/widgets\/media-widgets-min.js",
+      "oAP" : "\/wp-admin\/js\/js\/media-widgets-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -4897,7 +4897,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-admin\/js\/widgets\/media-widgets.min-min.js",
+      "oAP" : "\/wp-admin\/js\/js\/media-widgets.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -4908,7 +4908,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-admin\/js\/widgets\/text-widgets-min.js",
+      "oAP" : "\/wp-admin\/js\/js\/text-widgets-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -4919,7 +4919,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-admin\/js\/widgets\/text-widgets.min-min.js",
+      "oAP" : "\/wp-admin\/js\/js\/text-widgets.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -6125,7 +6125,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/select2\/3\/select2-min.js",
+      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/select2\/js\/select2-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -6136,7 +6136,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/select2\/3\/select2.min-min.js",
+      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/select2\/js\/select2.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -6185,7 +6185,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/select2\/4\/select2.full-min.js",
+      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/select2\/js\/select2.full-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -6196,7 +6196,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/select2\/4\/select2.full.min-min.js",
+      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/select2\/js\/select2.full.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -6207,7 +6207,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/select2\/4\/select2-min.js",
+      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/select2\/js\/select2-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -6230,7 +6230,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/select2\/4\/select2.min-min.js",
+      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/select2\/js\/select2.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -6253,7 +6253,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/timepicker\/jquery-ui-timepicker-addon-min.js",
+      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/js\/jquery-ui-timepicker-addon-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -6276,7 +6276,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/timepicker\/jquery-ui-timepicker-addon.min-min.js",
+      "oAP" : "\/wp-content\/plugins\/advanced-custom-fields\/assets\/inc\/js\/jquery-ui-timepicker-addon.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -7988,7 +7988,7 @@
       "oAP" : "\/wp-content\/themes\/scribble_s\/archive.php",
       "oF" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/dist\/css\/main.css" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/css\/main.css" : {
       "aP" : 1,
       "bl" : 0,
       "ci" : 0,
@@ -7996,41 +7996,79 @@
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/dist\/css\/main-min.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/css\/main-min.css",
       "oF" : 0,
       "pg" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/dist\/css\/main.css.map" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/css\/main.css.map" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/dist\/css\/main.css.map",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/css\/main.css.map",
       "oF" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/js\/customizer.js" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/js\/customizer-min.js" : {
       "bF" : 2,
       "ft" : 64,
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/js\/customizer-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/js\/customizer-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/js\/navigation.js" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/js\/customizer-min.js.map" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/js\/customizer-min.js.map",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/scribble_s\/assets\/js\/navigation-min.js" : {
       "bF" : 2,
       "ft" : 64,
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/js\/navigation-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/js\/navigation-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/abstracts\/_abstracts.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/js\/navigation-min.js.map" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/js\/navigation-min.js.map",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/scribble_s\/assets\/js\/src\/customizer.js" : {
+      "bF" : 2,
+      "ft" : 64,
+      "ma" : 1,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/js\/customizer-min.js",
+      "oF" : 2,
+      "sC" : 3,
+      "tS" : 1
+    },
+    "\/wp-content\/themes\/scribble_s\/assets\/js\/src\/navigation.js" : {
+      "bF" : 2,
+      "ft" : 64,
+      "ma" : 1,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/js\/navigation-min.js",
+      "oF" : 2,
+      "sC" : 3,
+      "tS" : 1
+    },
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/abstracts\/_abstracts.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8038,13 +8076,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/abstracts\/_abstracts.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/dist\/css\/_abstracts.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/abstracts\/mixins\/_mixins.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/abstracts\/mixins\/_mixins.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8052,13 +8090,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/abstracts\/mixins\/_mixins.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/abstracts\/dist\/css\/_mixins.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/abstracts\/variables\/_colors.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/abstracts\/variables\/_colors.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8066,13 +8104,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/abstracts\/variables\/_colors.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/abstracts\/dist\/css\/_colors.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/abstracts\/variables\/_columns.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/abstracts\/variables\/_columns.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8080,13 +8118,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/abstracts\/variables\/_columns.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/abstracts\/dist\/css\/_columns.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/abstracts\/variables\/_structure.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/abstracts\/variables\/_structure.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8094,13 +8132,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/abstracts\/variables\/_structure.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/abstracts\/dist\/css\/_structure.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/abstracts\/variables\/_typography.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/abstracts\/variables\/_typography.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8108,13 +8146,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/abstracts\/variables\/_typography.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/abstracts\/dist\/css\/_typography.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/base\/_base.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/_base.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8122,13 +8160,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/base\/_base.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/dist\/css\/_base.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/base\/elements\/_body.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/elements\/_body.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8136,13 +8174,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/base\/elements\/_body.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/dist\/css\/_body.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/base\/elements\/_buttons.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/elements\/_buttons.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8150,13 +8188,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/base\/elements\/_buttons.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/dist\/css\/_buttons.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/base\/elements\/_fields.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/elements\/_fields.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8164,13 +8202,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/base\/elements\/_fields.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/dist\/css\/_fields.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/base\/elements\/_hr.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/elements\/_hr.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8178,13 +8216,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/base\/elements\/_hr.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/dist\/css\/_hr.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/base\/elements\/_links.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/elements\/_links.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8192,13 +8230,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/base\/elements\/_links.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/dist\/css\/_links.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/base\/elements\/_lists.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/elements\/_lists.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8206,13 +8244,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/base\/elements\/_lists.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/dist\/css\/_lists.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/base\/elements\/_media.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/elements\/_media.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8220,13 +8258,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/base\/elements\/_media.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/dist\/css\/_media.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/base\/elements\/_tables.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/elements\/_tables.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8234,13 +8272,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/base\/elements\/_tables.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/dist\/css\/_tables.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/base\/typography\/_copy.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/typography\/_copy.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8248,13 +8286,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/base\/typography\/_copy.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/dist\/css\/_copy.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/base\/typography\/_headings.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/typography\/_headings.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8262,13 +8300,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/base\/typography\/_headings.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/dist\/css\/_headings.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/base\/typography\/_typography.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/typography\/_typography.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8276,13 +8314,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/base\/typography\/_typography.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/base\/dist\/css\/_typography.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/components\/_components.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/_components.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8290,13 +8328,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/components\/_components.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/dist\/css\/_components.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/components\/comments\/_comments.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/comments\/_comments.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8304,13 +8342,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/components\/comments\/_comments.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/dist\/css\/_comments.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/components\/content\/_posts-and-pages.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/content\/_posts-and-pages.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8318,13 +8356,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/components\/content\/_posts-and-pages.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/dist\/css\/_posts-and-pages.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/components\/media\/_captions.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/media\/_captions.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8332,13 +8370,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/components\/media\/_captions.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/dist\/css\/_captions.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/components\/media\/_galleries.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/media\/_galleries.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8346,13 +8384,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/components\/media\/_galleries.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/dist\/css\/_galleries.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/components\/media\/_media.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/media\/_media.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8360,13 +8398,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/components\/media\/_media.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/dist\/css\/_media.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/components\/navigation\/_navigation.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/navigation\/_navigation.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8374,13 +8412,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/components\/navigation\/_navigation.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/dist\/css\/_navigation.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/components\/widgets\/_widgets.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/widgets\/_widgets.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8388,13 +8426,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/components\/widgets\/_widgets.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/components\/dist\/css\/_widgets.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/generic\/_box-sizing.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/generic\/_box-sizing.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8402,13 +8440,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/generic\/_box-sizing.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/dist\/css\/_box-sizing.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/generic\/_normalize.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/generic\/_normalize.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8416,13 +8454,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/generic\/_normalize.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/dist\/css\/_normalize.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/layouts\/_content-sidebar.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/layouts\/_content-sidebar.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8430,13 +8468,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/layouts\/_content-sidebar.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/dist\/css\/_content-sidebar.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/layouts\/_no-sidebar.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/layouts\/_no-sidebar.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8444,13 +8482,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/layouts\/_no-sidebar.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/dist\/css\/_no-sidebar.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/layouts\/_sidebar-content.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/layouts\/_sidebar-content.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8458,13 +8496,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/layouts\/_sidebar-content.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/dist\/css\/_sidebar-content.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/main.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/main.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8472,13 +8510,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/dist\/css\/main.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/css\/main.css",
       "oF" : 2,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/plugins\/jetpack\/_infinite-scroll.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/plugins\/jetpack\/_infinite-scroll.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8486,13 +8524,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/plugins\/jetpack\/_infinite-scroll.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/plugins\/dist\/css\/_infinite-scroll.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/plugins\/woocommerce\/_checkout.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/plugins\/woocommerce\/_checkout.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8500,13 +8538,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/plugins\/woocommerce\/_checkout.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/plugins\/dist\/css\/_checkout.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/plugins\/woocommerce\/_components.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/plugins\/woocommerce\/_components.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8514,13 +8552,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/plugins\/woocommerce\/_components.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/plugins\/dist\/css\/_components.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/plugins\/woocommerce\/_products.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/plugins\/woocommerce\/_products.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8528,13 +8566,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/plugins\/woocommerce\/_products.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/plugins\/dist\/css\/_products.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/plugins\/woocommerce\/_single-product.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/plugins\/woocommerce\/_single-product.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8542,13 +8580,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/plugins\/woocommerce\/_single-product.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/plugins\/dist\/css\/_single-product.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/plugins\/woocommerce\/_tables.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/plugins\/woocommerce\/_tables.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8556,13 +8594,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/plugins\/woocommerce\/_tables.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/plugins\/dist\/css\/_tables.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/plugins\/woocommerce\/_widgets.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/plugins\/woocommerce\/_widgets.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8570,13 +8608,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/plugins\/woocommerce\/_widgets.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/plugins\/dist\/css\/_widgets.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/utilities\/_accessibility.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/utilities\/_accessibility.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8584,13 +8622,13 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/utilities\/_accessibility.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/dist\/css\/_accessibility.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
-    "\/wp-content\/themes\/scribble_s\/assets\/src\/sass\/utilities\/_alignments.scss" : {
+    "\/wp-content\/themes\/scribble_s\/assets\/sass\/utilities\/_alignments.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -8598,7 +8636,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/src\/css\/utilities\/_alignments.css",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/assets\/sass\/dist\/css\/_alignments.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -8610,6 +8648,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-content\/themes\/scribble_s\/comments.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/scribble_s\/commit-conventions.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/scribble_s\/commit-conventions.txt",
       "oF" : 0
     },
     "\/wp-content\/themes\/scribble_s\/composer.json" : {
@@ -16500,7 +16546,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Commenting\/DocCommentUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/DocCommentUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -16535,7 +16581,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Commenting\/FixmeUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/FixmeUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -16562,7 +16608,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Commenting\/TodoUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/TodoUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -16661,7 +16707,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/ControlStructures\/InlineControlStructureUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/InlineControlStructureUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -16688,7 +16734,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Debug\/ClosureLinterUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/ClosureLinterUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -16727,7 +16773,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Debug\/ESLintUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/ESLintUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -16746,7 +16792,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Debug\/JSHintUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/JSHintUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -16801,7 +16847,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Files\/EndFileNewlineUnitTest.1-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/EndFileNewlineUnitTest.1-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -16832,7 +16878,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Files\/EndFileNewlineUnitTest.2-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/EndFileNewlineUnitTest.2-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -16879,7 +16925,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Files\/EndFileNewlineUnitTest.3-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/EndFileNewlineUnitTest.3-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -16966,7 +17012,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Files\/EndFileNoNewlineUnitTest.1-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/EndFileNoNewlineUnitTest.1-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -17021,7 +17067,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Files\/EndFileNoNewlineUnitTest.2-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/EndFileNoNewlineUnitTest.2-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -17060,7 +17106,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Files\/EndFileNoNewlineUnitTest.3-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/EndFileNoNewlineUnitTest.3-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -17243,7 +17289,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Files\/LineEndingsUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/LineEndingsUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -17430,7 +17476,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Formatting\/MultipleStatementAlignmentUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/MultipleStatementAlignmentUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -17521,7 +17567,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Formatting\/SpaceAfterNotUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/SpaceAfterNotUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -18028,7 +18074,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/PHP\/LowerCaseConstantUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/LowerCaseConstantUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -18207,7 +18253,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/Strings\/UnnecessaryStringConcatUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/UnnecessaryStringConcatUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -18298,7 +18344,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/VersionControl\/GitMergeConflictUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/GitMergeConflictUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -18409,7 +18455,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/WhiteSpace\/DisallowSpaceIndentUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/DisallowSpaceIndentUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -18472,7 +18518,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/WhiteSpace\/DisallowTabIndentUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/DisallowTabIndentUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -18515,7 +18561,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/WhiteSpace\/IncrementDecrementSpacingUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/IncrementDecrementSpacingUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -18582,7 +18628,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/WhiteSpace\/ScopeIndentUnitTest.1-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Generic\/Tests\/js\/ScopeIndentUnitTest.1-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -18909,7 +18955,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/MySource\/Tests\/Debug\/FirebugConsoleUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/MySource\/Tests\/js\/FirebugConsoleUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -18928,7 +18974,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/MySource\/Tests\/Objects\/AssignThisUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/MySource\/Tests\/js\/AssignThisUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -18947,7 +18993,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/MySource\/Tests\/Objects\/CreateWidgetTypeCallbackUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/MySource\/Tests\/js\/CreateWidgetTypeCallbackUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -19046,7 +19092,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/MySource\/Tests\/Strings\/JoinStringsUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/MySource\/Tests\/js\/JoinStringsUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -19521,7 +19567,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/PEAR\/Tests\/ControlStructures\/MultiLineConditionUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/PEAR\/Tests\/js\/MultiLineConditionUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -19604,7 +19650,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/PEAR\/Tests\/Functions\/FunctionCallSignatureUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/PEAR\/Tests\/js\/FunctionCallSignatureUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -19647,7 +19693,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/PEAR\/Tests\/Functions\/FunctionDeclarationUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/PEAR\/Tests\/js\/FunctionDeclarationUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -22666,7 +22712,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Classes\/DuplicatePropertyUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/DuplicatePropertyUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -22821,7 +22867,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Commenting\/DocCommentAlignmentUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/DocCommentAlignmentUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -22880,7 +22926,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Commenting\/FileCommentUnitTest.1-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/FileCommentUnitTest.1-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -22907,7 +22953,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Commenting\/FileCommentUnitTest.2-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/FileCommentUnitTest.2-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -23022,7 +23068,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Commenting\/InlineCommentUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/InlineCommentUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -23065,7 +23111,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Commenting\/LongConditionClosingCommentUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/LongConditionClosingCommentUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -23092,7 +23138,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Commenting\/PostStatementCommentUnitTest.1-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/PostStatementCommentUnitTest.1-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -23111,7 +23157,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Commenting\/PostStatementCommentUnitTest.2-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/PostStatementCommentUnitTest.2-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -23186,7 +23232,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/ControlStructures\/ControlSignatureUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/ControlSignatureUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -23277,7 +23323,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/ControlStructures\/ForLoopDeclarationUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/ForLoopDeclarationUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -23368,7 +23414,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/ControlStructures\/SwitchDeclarationUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/SwitchDeclarationUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -23839,7 +23885,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Debug\/JavaScriptLintUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/JavaScriptLintUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -23858,7 +23904,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Debug\/JSLintUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/JSLintUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -23933,7 +23979,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Formatting\/OperatorBracketUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/OperatorBracketUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -24072,7 +24118,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Functions\/MultiLineFunctionDeclarationUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/MultiLineFunctionDeclarationUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -24131,7 +24177,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Objects\/DisallowObjectStringIndexUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/DisallowObjectStringIndexUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -24166,7 +24212,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Objects\/ObjectMemberCommaUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/ObjectMemberCommaUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -24201,7 +24247,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/Operators\/ComparisonOperatorUsageUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/ComparisonOperatorUsageUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -24320,7 +24366,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/PHP\/DisallowInlineIfUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/DisallowInlineIfUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -24363,7 +24409,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/PHP\/DisallowSizeFunctionsInLoopsUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/DisallowSizeFunctionsInLoopsUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -24694,7 +24740,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/WhiteSpace\/ControlStructureSpacingUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/ControlStructureSpacingUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -24737,7 +24783,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/WhiteSpace\/FunctionClosingBraceSpaceUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/FunctionClosingBraceSpaceUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -24780,7 +24826,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/WhiteSpace\/FunctionOpeningBraceSpaceUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/FunctionOpeningBraceSpaceUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -24951,7 +24997,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/WhiteSpace\/LogicalOperatorSpacingUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/LogicalOperatorSpacingUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -25042,7 +25088,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/WhiteSpace\/OperatorSpacingUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/OperatorSpacingUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -25069,7 +25115,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/WhiteSpace\/PropertyLabelSpacingUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/PropertyLabelSpacingUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -25160,7 +25206,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/WhiteSpace\/SemicolonSpacingUnitTest-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/SemicolonSpacingUnitTest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -25223,7 +25269,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/WhiteSpace\/SuperfluousWhitespaceUnitTest.1-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/SuperfluousWhitespaceUnitTest.1-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -25278,7 +25324,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/WhiteSpace\/SuperfluousWhitespaceUnitTest.2-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/SuperfluousWhitespaceUnitTest.2-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -25333,7 +25379,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/WhiteSpace\/SuperfluousWhitespaceUnitTest.3-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/squizlabs\/php_codesniffer\/src\/Standards\/Squiz\/Tests\/js\/SuperfluousWhitespaceUnitTest.3-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -26927,7 +26973,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/wp-cli\/i18n-command\/tests\/data\/baz\/includes\/should_be_included-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/wp-cli\/i18n-command\/tests\/data\/baz\/js\/should_be_included-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -26946,7 +26992,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/wp-cli\/i18n-command\/tests\/data\/foo\/bar\/excluded\/ignored-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/wp-cli\/i18n-command\/tests\/data\/foo\/bar\/js\/ignored-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -26965,7 +27011,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/wp-cli\/i18n-command\/tests\/data\/foo\/bar\/foofoo\/included-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/wp-cli\/i18n-command\/tests\/data\/foo\/bar\/js\/included-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -26976,7 +27022,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/wp-cli\/i18n-command\/tests\/data\/foo\/bar\/foofoo\/minified.min-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/wp-cli\/i18n-command\/tests\/data\/foo\/bar\/js\/minified.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -26987,7 +27033,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/wp-cli\/i18n-command\/tests\/data\/hoge\/should_NOT_be_included-min.js",
+      "oAP" : "\/wp-content\/themes\/scribble_s\/vendor\/wp-cli\/i18n-command\/tests\/data\/js\/should_NOT_be_included-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -32138,7 +32184,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 1,
-      "oAP" : "\/wp-content\/themes\/twentytwentyone\/postcss.config-min.js",
+      "oAP" : "\/wp-content\/themes\/js\/postcss.config-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43541,7 +43587,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/codemirror\/codemirror.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/codemirror.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43552,7 +43598,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/codemirror\/csslint-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/csslint-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43563,7 +43609,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/codemirror\/esprima-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/esprima-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43574,7 +43620,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/codemirror\/fakejshint-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/fakejshint-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43585,7 +43631,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/codemirror\/htmlhint-kses-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/htmlhint-kses-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43596,7 +43642,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/codemirror\/htmlhint-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/htmlhint-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43607,7 +43653,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/codemirror\/jsonlint-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jsonlint-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43674,7 +43720,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/crop\/cropper-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/cropper-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43881,7 +43927,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/a11y-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/a11y-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43892,7 +43938,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/a11y.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/a11y.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43903,7 +43949,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/annotations-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/annotations-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43914,7 +43960,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/annotations.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/annotations.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43925,7 +43971,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/api-fetch-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/api-fetch-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43936,7 +43982,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/api-fetch.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/api-fetch.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43947,7 +43993,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/autop-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/autop-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43958,7 +44004,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/autop.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/autop.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43969,7 +44015,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/blob-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/blob-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43980,7 +44026,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/blob.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/blob.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -43991,7 +44037,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/block-directory-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/block-directory-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44002,7 +44048,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/block-directory.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/block-directory.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44013,7 +44059,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/block-editor-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/block-editor-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44024,7 +44070,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/block-editor.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/block-editor.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44035,7 +44081,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/block-library-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/block-library-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44046,7 +44092,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/block-library.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/block-library.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44057,7 +44103,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/block-serialization-default-parser-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/block-serialization-default-parser-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44068,7 +44114,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/block-serialization-default-parser.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/block-serialization-default-parser.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44079,7 +44125,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/blocks-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/blocks-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44090,7 +44136,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/blocks.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/blocks.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44101,7 +44147,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/components-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/components-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44112,7 +44158,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/components.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/components.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44123,7 +44169,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/compose-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/compose-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44134,7 +44180,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/compose.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/compose.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44145,7 +44191,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/core-data-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/core-data-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44156,7 +44202,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/core-data.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/core-data.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44167,7 +44213,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/customize-widgets-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/customize-widgets-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44178,7 +44224,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/customize-widgets.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/customize-widgets.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44189,7 +44235,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/data-controls-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/data-controls-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44200,7 +44246,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/data-controls.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/data-controls.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44211,7 +44257,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/data-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/data-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44222,7 +44268,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/data.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/data.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44233,7 +44279,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/date-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/date-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44244,7 +44290,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/date.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/date.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44255,7 +44301,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/deprecated-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/deprecated-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44266,7 +44312,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/deprecated.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/deprecated.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44277,7 +44323,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/dom-ready-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/dom-ready-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44288,7 +44334,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/dom-ready.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/dom-ready.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44299,7 +44345,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/dom-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/dom-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44310,7 +44356,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/dom.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/dom.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44321,7 +44367,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/edit-post-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/edit-post-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44332,7 +44378,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/edit-post.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/edit-post.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44343,7 +44389,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/edit-widgets-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/edit-widgets-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44354,7 +44400,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/edit-widgets.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/edit-widgets.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44365,7 +44411,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/editor-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/editor-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44376,7 +44422,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/editor.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/editor.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44387,7 +44433,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/element-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/element-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44398,7 +44444,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/element.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/element.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44409,7 +44455,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/escape-html-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/escape-html-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44420,7 +44466,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/escape-html.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/escape-html.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44431,7 +44477,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/format-library-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/format-library-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44442,7 +44488,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/format-library.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/format-library.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44453,7 +44499,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/hooks-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/hooks-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44464,7 +44510,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/hooks.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/hooks.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44475,7 +44521,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/html-entities-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/html-entities-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44486,7 +44532,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/html-entities.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/html-entities.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44497,7 +44543,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/i18n-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/i18n-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44508,7 +44554,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/i18n.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/i18n.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44519,7 +44565,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/is-shallow-equal-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/is-shallow-equal-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44530,7 +44576,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/is-shallow-equal.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/is-shallow-equal.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44541,7 +44587,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/keyboard-shortcuts-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/keyboard-shortcuts-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44552,7 +44598,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/keyboard-shortcuts.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/keyboard-shortcuts.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44563,7 +44609,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/keycodes-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/keycodes-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44574,7 +44620,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/keycodes.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/keycodes.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44585,7 +44631,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/list-reusable-blocks-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/list-reusable-blocks-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44596,7 +44642,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/list-reusable-blocks.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/list-reusable-blocks.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44607,7 +44653,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/media-utils-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/media-utils-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44618,7 +44664,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/media-utils.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/media-utils.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44629,7 +44675,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/notices-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/notices-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44640,7 +44686,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/notices.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/notices.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44651,7 +44697,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/nux-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/nux-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44662,7 +44708,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/nux.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/nux.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44673,7 +44719,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/plugins-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/plugins-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44684,7 +44730,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/plugins.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/plugins.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44695,7 +44741,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/primitives-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/primitives-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44706,7 +44752,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/primitives.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/primitives.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44717,7 +44763,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/priority-queue-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/priority-queue-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44728,7 +44774,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/priority-queue.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/priority-queue.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44739,7 +44785,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/redux-routine-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/redux-routine-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44750,7 +44796,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/redux-routine.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/redux-routine.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44761,7 +44807,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/reusable-blocks-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/reusable-blocks-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44772,7 +44818,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/reusable-blocks.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/reusable-blocks.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44783,7 +44829,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/rich-text-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/rich-text-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44794,7 +44840,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/rich-text.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/rich-text.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44805,7 +44851,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/server-side-render-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/server-side-render-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44816,7 +44862,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/server-side-render.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/server-side-render.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44827,7 +44873,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/shortcode-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/shortcode-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44838,7 +44884,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/shortcode.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/shortcode.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44849,7 +44895,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/token-list-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/token-list-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44860,7 +44906,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/token-list.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/token-list.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44871,7 +44917,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/url-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/url-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44882,7 +44928,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/url.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/url.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44893,7 +44939,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/lodash-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/lodash-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44904,7 +44950,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/lodash.min-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/lodash.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44915,7 +44961,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/moment-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/moment-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44926,7 +44972,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/moment.min-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/moment.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44937,7 +44983,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/react-dom-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/react-dom-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44948,7 +44994,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/react-dom.min-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/react-dom.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44959,7 +45005,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/react-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/react-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44970,7 +45016,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/react.min-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/react.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44981,7 +45027,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/regenerator-runtime-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/regenerator-runtime-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -44992,7 +45038,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/regenerator-runtime.min-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/regenerator-runtime.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45003,7 +45049,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-dom-rect-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-dom-rect-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45014,7 +45060,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-dom-rect.min-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-dom-rect.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45025,7 +45071,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-element-closest-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-element-closest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45036,7 +45082,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-element-closest.min-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-element-closest.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45047,7 +45093,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-fetch-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-fetch-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45058,7 +45104,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-fetch.min-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-fetch.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45069,7 +45115,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-formdata-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-formdata-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45080,7 +45126,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-formdata.min-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-formdata.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45091,7 +45137,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-node-contains-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-node-contains-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45102,7 +45148,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-node-contains.min-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-node-contains.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45113,7 +45159,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-object-fit-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-object-fit-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45124,7 +45170,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-object-fit.min-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-object-fit.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45135,7 +45181,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-url-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-url-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45146,7 +45192,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-url.min-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-url.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45157,7 +45203,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45168,7 +45214,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/vendor\/wp-polyfill.min-min.js",
+      "oAP" : "\/wp-includes\/js\/dist\/js\/wp-polyfill.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45179,7 +45225,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/viewport-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/viewport-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45190,7 +45236,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/viewport.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/viewport.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45201,7 +45247,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/warning-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/warning-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45212,7 +45258,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/warning.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/warning.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45223,7 +45269,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/widgets-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/widgets-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45234,7 +45280,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/widgets.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/widgets.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45245,7 +45291,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/wordcount-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/wordcount-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45256,7 +45302,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/dist\/wordcount.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/wordcount.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45365,7 +45411,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/imgareaselect\/jquery.imgareaselect-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.imgareaselect-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45376,7 +45422,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/imgareaselect\/jquery.imgareaselect.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.imgareaselect.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45409,7 +45455,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jcrop\/jquery.Jcrop.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.Jcrop.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45420,7 +45466,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery-migrate-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery-migrate-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45431,7 +45477,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery-migrate.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery-migrate.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45442,7 +45488,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery.color.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.color.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45453,7 +45499,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery.form-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.form-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45464,7 +45510,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery.form.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.form.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45475,7 +45521,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery.hotkeys-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.hotkeys-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45486,7 +45532,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery.hotkeys.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.hotkeys.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45497,7 +45543,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45508,7 +45554,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery.masonry.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.masonry.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45519,7 +45565,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45530,7 +45576,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery.query-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.query-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45541,7 +45587,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery.schedule-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.schedule-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45552,7 +45598,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery.serialize-object-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.serialize-object-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45563,7 +45609,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery.table-hotkeys-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.table-hotkeys-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45574,7 +45620,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery.table-hotkeys.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.table-hotkeys.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45585,7 +45631,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/jquery.ui.touch-punch-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/jquery.ui.touch-punch-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45596,7 +45642,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/suggest-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/suggest-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45607,7 +45653,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/suggest.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/suggest.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45618,7 +45664,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/accordion-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/accordion-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45629,7 +45675,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/accordion.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/accordion.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45640,7 +45686,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/autocomplete-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/autocomplete-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45651,7 +45697,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/autocomplete.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/autocomplete.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45662,7 +45708,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/button-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/button-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45673,7 +45719,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/button.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/button.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45684,7 +45730,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/checkboxradio-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/checkboxradio-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45695,7 +45741,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/checkboxradio.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/checkboxradio.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45706,7 +45752,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/controlgroup-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/controlgroup-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45717,7 +45763,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/controlgroup.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/controlgroup.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45728,7 +45774,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/core-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/core-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45739,7 +45785,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/core.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/core.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45750,7 +45796,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/datepicker-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/datepicker-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45761,7 +45807,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/datepicker.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/datepicker.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45772,7 +45818,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/dialog-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/dialog-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45783,7 +45829,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/dialog.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/dialog.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45794,7 +45840,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/draggable-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/draggable-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45805,7 +45851,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/draggable.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/draggable.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45816,7 +45862,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/droppable-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/droppable-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45827,7 +45873,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/droppable.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/droppable.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45838,7 +45884,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-blind-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-blind-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45849,7 +45895,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-blind.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-blind.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45860,7 +45906,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-bounce-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-bounce-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45871,7 +45917,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-bounce.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-bounce.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45882,7 +45928,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-clip-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-clip-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45893,7 +45939,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-clip.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-clip.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45904,7 +45950,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-drop-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-drop-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45915,7 +45961,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-drop.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-drop.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45926,7 +45972,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-explode-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-explode-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45937,7 +45983,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-explode.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-explode.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45948,7 +45994,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-fade-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-fade-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45959,7 +46005,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-fade.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-fade.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45970,7 +46016,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-fold-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-fold-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45981,7 +46027,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-fold.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-fold.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -45992,7 +46038,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-highlight-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-highlight-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46003,7 +46049,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-highlight.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-highlight.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46014,7 +46060,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-puff-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-puff-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46025,7 +46071,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-puff.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-puff.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46036,7 +46082,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-pulsate-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-pulsate-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46047,7 +46093,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-pulsate.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-pulsate.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46058,7 +46104,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-scale-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-scale-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46069,7 +46115,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-scale.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-scale.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46080,7 +46126,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-shake-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-shake-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46091,7 +46137,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-shake.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-shake.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46102,7 +46148,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-size-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-size-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46113,7 +46159,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-size.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-size.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46124,7 +46170,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-slide-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-slide-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46135,7 +46181,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-slide.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-slide.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46146,7 +46192,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-transfer-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-transfer-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46157,7 +46203,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-transfer.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-transfer.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46168,7 +46214,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46179,7 +46225,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/effect.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/effect.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46190,7 +46236,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/menu-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/menu-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46201,7 +46247,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/menu.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/menu.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46212,7 +46258,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/mouse-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/mouse-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46223,7 +46269,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/mouse.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/mouse.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46234,7 +46280,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/progressbar-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/progressbar-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46245,7 +46291,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/progressbar.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/progressbar.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46256,7 +46302,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/resizable-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/resizable-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46267,7 +46313,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/resizable.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/resizable.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46278,7 +46324,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/selectable-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/selectable-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46289,7 +46335,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/selectable.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/selectable.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46300,7 +46346,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/selectmenu-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/selectmenu-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46311,7 +46357,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/selectmenu.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/selectmenu.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46322,7 +46368,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/slider-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/slider-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46333,7 +46379,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/slider.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/slider.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46344,7 +46390,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/sortable-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/sortable-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46355,7 +46401,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/sortable.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/sortable.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46366,7 +46412,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/spinner-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/spinner-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46377,7 +46423,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/spinner.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/spinner.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46388,7 +46434,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/tabs-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/tabs-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46399,7 +46445,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/tabs.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/tabs.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46410,7 +46456,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/tooltip-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/tooltip-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46421,7 +46467,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/jquery\/ui\/tooltip.min-min.js",
+      "oAP" : "\/wp-includes\/js\/jquery\/js\/tooltip.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46597,7 +46643,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/mediaelement\/mediaelement-and-player-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/mediaelement-and-player-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46608,7 +46654,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/mediaelement\/mediaelement-and-player.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/mediaelement-and-player.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46619,7 +46665,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/mediaelement\/mediaelement-migrate-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/mediaelement-migrate-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46630,7 +46676,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/mediaelement\/mediaelement-migrate.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/mediaelement-migrate.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46641,7 +46687,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/mediaelement\/mediaelement-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/mediaelement-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46652,7 +46698,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/mediaelement\/mediaelement.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/mediaelement.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46734,7 +46780,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/mediaelement\/renderers\/vimeo-min.js",
+      "oAP" : "\/wp-includes\/js\/mediaelement\/js\/vimeo-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46745,7 +46791,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/mediaelement\/renderers\/vimeo.min-min.js",
+      "oAP" : "\/wp-includes\/js\/mediaelement\/js\/vimeo.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46768,7 +46814,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/mediaelement\/wp-mediaelement-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/wp-mediaelement-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46791,7 +46837,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/mediaelement\/wp-mediaelement.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/wp-mediaelement.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46802,7 +46848,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/mediaelement\/wp-playlist-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/wp-playlist-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46813,7 +46859,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/mediaelement\/wp-playlist.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/wp-playlist.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46824,7 +46870,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/plupload\/handlers-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/handlers-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46835,7 +46881,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/plupload\/handlers.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/handlers.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46854,7 +46900,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/plupload\/moxie-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/moxie-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46865,7 +46911,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/plupload\/moxie.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/moxie.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46876,7 +46922,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/plupload\/plupload-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/plupload-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46887,7 +46933,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/plupload\/plupload.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/plupload.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46898,7 +46944,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/plupload\/wp-plupload-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/wp-plupload-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46909,7 +46955,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/plupload\/wp-plupload.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/wp-plupload.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46975,7 +47021,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/swfupload\/handlers-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/handlers-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -46986,7 +47032,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/swfupload\/handlers.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/handlers.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47005,7 +47051,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/swfupload\/swfupload-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/swfupload-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47051,7 +47097,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/thickbox\/thickbox-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/thickbox-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47062,7 +47108,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/langs\/wp-langs-en-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/js\/wp-langs-en-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47081,7 +47127,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/charmap\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47092,7 +47138,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/charmap\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47103,7 +47149,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/colorpicker\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47114,7 +47160,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/colorpicker\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47137,7 +47183,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/compat3x\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47148,7 +47194,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/compat3x\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47159,7 +47205,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/directionality\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47170,7 +47216,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/directionality\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47181,7 +47227,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/fullscreen\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47192,7 +47238,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/fullscreen\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47203,7 +47249,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/hr\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47214,7 +47260,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/hr\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47225,7 +47271,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/image\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47236,7 +47282,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/image\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47247,7 +47293,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/link\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47258,7 +47304,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/link\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47269,7 +47315,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/lists\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47280,7 +47326,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/lists\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47291,7 +47337,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/media\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47302,7 +47348,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/media\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47313,7 +47359,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/paste\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47324,7 +47370,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/paste\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47335,7 +47381,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/tabfocus\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47346,7 +47392,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/tabfocus\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47357,7 +47403,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/textcolor\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47368,7 +47414,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/textcolor\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47379,7 +47425,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wordpress\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47390,7 +47436,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wordpress\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47401,7 +47447,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wpautoresize\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47412,7 +47458,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wpautoresize\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47423,7 +47469,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wpdialogs\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47434,7 +47480,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wpdialogs\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47445,7 +47491,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wpeditimage\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47456,7 +47502,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wpeditimage\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47467,7 +47513,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wpemoji\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47478,7 +47524,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wpemoji\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47489,7 +47535,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wpgallery\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47500,7 +47546,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wpgallery\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47511,7 +47557,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wplink\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47522,7 +47568,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wplink\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47533,7 +47579,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wptextpattern\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47544,7 +47590,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wptextpattern\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47555,7 +47601,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wpview\/plugin-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47566,7 +47612,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/wpview\/plugin.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/plugins\/js\/plugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47902,7 +47948,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/themes\/inlite\/theme-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/themes\/js\/theme-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47913,7 +47959,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/themes\/inlite\/theme.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/themes\/js\/theme.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47924,7 +47970,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/themes\/modern\/theme-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/themes\/js\/theme-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47935,7 +47981,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/themes\/modern\/theme.min-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/themes\/js\/theme.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47946,7 +47992,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/tiny_mce_popup-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/tiny_mce_popup-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47957,7 +48003,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/tinymce.min-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/tinymce.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47968,7 +48014,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/utils\/editable_selects-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/js\/editable_selects-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47979,7 +48025,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/utils\/form_utils-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/js\/form_utils-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -47990,7 +48036,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/utils\/mctabs-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/js\/mctabs-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -48001,7 +48047,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/utils\/validate-min.js",
+      "oAP" : "\/wp-includes\/js\/tinymce\/js\/validate-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -48012,7 +48058,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/tinymce\/wp-tinymce-min.js",
+      "oAP" : "\/wp-includes\/js\/js\/wp-tinymce-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -53195,10 +53241,10 @@
     "languageDefaultsJS" : {
       "autoOutputAction" : 0,
       "autoOutputPathFilenamePattern" : "*-min.js",
-      "autoOutputPathRelativePath" : "\/min",
+      "autoOutputPathRelativePath" : "..\/js",
       "autoOutputPathReplace1" : "",
       "autoOutputPathReplace2" : "",
-      "autoOutputPathStyle" : 0,
+      "autoOutputPathStyle" : 2,
       "bundleFormat" : 2,
       "minifierStyle" : 1,
       "sourceMapStyle" : 1,

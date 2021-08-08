@@ -13,6 +13,17 @@
         "font-family-no-duplicate-names": null,
         "selector-class-pattern": null,
         "function-parentheses-space-inside": "always-single-line",
-        "indentation": null
+        "indentation": 4,
+        "rule-nested-empty-line-before": "never",
+
+        "rule-empty-line-before": [
+            "never",
+            {
+                "except": [
+                    "inside-block-and-after-rule"
+                ],
+                "ignore": ["first-nested"]
+            }
+        ]
     }
 }
