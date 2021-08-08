@@ -12,6 +12,7 @@
         "no-duplicate-selectors": null,
         "font-family-no-duplicate-names": null,
         "selector-class-pattern": null,
-        "function-parentheses-space-inside": "always-single-line"
+        "function-parentheses-space-inside": "always-single-line",
+        "indentation": null
     }
 }
