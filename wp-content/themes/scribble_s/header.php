@@ -44,7 +44,7 @@
 				<p class="site-description"><?php echo $scribble_s_description; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped ?></p>
 			<?php endif; ?>
 		</div><!-- .site-branding -->
-
+<!-- TODO: Hide the Primary menu on screens smaller than 544px ($sm)-->
 		<nav id="site-navigation" class="main-navigation">
 			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'scribble_s' ); ?></button>
 			<?php
@@ -56,4 +56,15 @@
 			);
 			?>
 		</nav><!-- #site-navigation -->
+		<nav id="mobile-navigation" class="mobile-navigation">
+			<button class="menu-toggle" aria-controls="primary-mobile-menu" aria-expanded="false"><?php esc_html_e( 'Mobile Menu', 'scribble_s' ); ?></button>
+			<?php
+			wp_nav_menu(
+				array(
+					'theme_location' => 'menu-2',
+					'menu_id'        => 'mobile-menu',
+				)
+			);
+			?>
+		</nav><!-- #mobile-navigation -->
 	</header><!-- #masthead -->
