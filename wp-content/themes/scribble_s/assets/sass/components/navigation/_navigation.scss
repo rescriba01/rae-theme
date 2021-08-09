@@ -1,7 +1,30 @@
 .main-navigation {
 	display: block;
 	width: 100%;
+    background-color: #76ad91;
 
+    /*
+    *
+    * The .visually-hidden class is part of the "clip pattern".
+    * It is used for a specific task: hide the content visually, yet provide the content to screen readers.
+    * Unlike CSS positioning and negative text-indent techniques, the "clip pattern" also works with 
+    * RTL (Right-to-Left) languages for localization. https://www.a11yproject.com/posts/2013-01-11-how-to-hide-content/
+    *
+    */
+
+    .visually-hidden {
+        &:not(:focus) {
+            &:not(:active) {
+                clip: rect( 0 0 0 0 );
+                clip-path: inset( 50% );
+                height: 1px;
+                overflow: hidden;
+                position: absolute;
+                white-space: nowrap;
+                width: 1px;
+            }
+        }
+    }
 	ul {
 		display: none;
 		list-style: none;
@@ -9,7 +32,7 @@
 		padding-left: 0;
 
 		ul {
-			box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+			box-shadow: 0 3px 3px rgba( 0, 0, 0, 0.2 );
 			float: left;
 			position: absolute;
 			top: 100%;
@@ -20,7 +43,6 @@
 				left: -999em;
 				top: 0;
 			}
-
 			li {
 
 				&:hover > ul,
@@ -29,26 +51,21 @@
 					left: auto;
 				}
 			}
-
 			a {
 				width: 200px;
 			}
-
 			:hover > a,
 			.focus > a {
 			}
-
 			a:hover,
 			a.focus {
 			}
 		}
-
 		li:hover > ul,
 		li.focus > ul {
 			left: auto;
 		}
 	}
-
 	li {
 		position: relative;
 
@@ -56,12 +73,10 @@
 		&.focus > a {
 		}
 	}
-
 	a {
 		display: block;
 		text-decoration: none;
 	}
-
 	.current_page_item > a,
 	.current-menu-item > a,
 	.current_page_ancestor > a,
@@ -70,6 +85,7 @@
 }
 
 /* Small menu. */
+
 .menu-toggle,
 .main-navigation.toggled ul {
 	display: block;
@@ -80,7 +96,6 @@
 	.menu-toggle {
 		display: none;
 	}
-
 	.main-navigation ul {
 		display: flex;
 	}
@@ -93,15 +108,12 @@
 	.site-main & {
 		margin: 0 0 1.5em;
 	}
-
 	.nav-links {
 		display: flex;
 	}
-
 	.nav-previous {
 		flex: 1 0 50%;
 	}
-
 	.nav-next {
 		text-align: end;
 		flex: 1 0 50%;

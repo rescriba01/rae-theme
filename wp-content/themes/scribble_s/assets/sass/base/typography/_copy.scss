@@ -1,5 +1,6 @@
+
 p {
-	margin-bottom: 1.5em;
+    margin-bottom: 1rem;
 }
 
 dfn,
@@ -48,4 +49,9 @@ ins {
 
 big {
 	font-size: 125%;
+}
+
+small,
+.text_small {
+	font-size: 0.8rem;
 }
