@@ -20,6 +20,7 @@
     "@wordpress/scripts": "^12.1.0",
     "@wordpress/stylelint-config": "^19.1.0",
     "dir-archiver": "^1.1.1",
+    "modularscale-sass": "^3.0.10",
     "node-sass": "^4.14.1",
     "rtlcss": "^2.5.0"
   },
