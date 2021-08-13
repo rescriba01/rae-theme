@@ -4,8 +4,8 @@
 		display: grid;
 		grid-template-columns: auto;
 		grid-template-areas:
-			"header"
-			"main"
-			"footer";
+			"header header header "
+			"main main main"
+			"footer footer footer";
 	}
 }
