@@ -52,6 +52,9 @@ if ( ! function_exists( 'scribble_s_setup' ) ) :
 			array(
 				'menu-1' => esc_html__( 'Primary', 'scribble_s' ),
 				'menu-2' => esc_html__('Mobile', 'scribble_s'),
+				'menu-3' => esc_html__('Top Utility', 'scribble_s'),
+				'menu-4' => esc_html__('Footer', 'scribble_s'),
+				'menu-5' => esc_html__('Footer Utility', 'scribble_s')
 			)
 		);
 
