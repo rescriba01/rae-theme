@@ -54,7 +54,8 @@ if ( ! function_exists( 'scribble_s_setup' ) ) :
 				'menu-2' => esc_html__('Mobile', 'scribble_s'),
 				'menu-3' => esc_html__('Top Utility', 'scribble_s'),
 				'menu-4' => esc_html__('Footer', 'scribble_s'),
-				'menu-5' => esc_html__('Footer Utility', 'scribble_s')
+				'menu-5' => esc_html__('Footer Utility', 'scribble_s'),
+				'split_nav' => esc_html__('Split Nav', 'scribble_s'),
 			)
 		);
 
@@ -147,6 +148,7 @@ function scribble_s_scripts() {
 	wp_enqueue_style( 'scribble_s-style', get_stylesheet_uri(), array(), _S_VERSION );
 	wp_style_add_data( 'scribble_s-style', 'rtl', 'replace' );
 
+	wp_enqueue_script('scribble_s-scripts', get_template_directory_uri() . '/assets/js/src/main.js', array(), _S_VERSION, false);
 	wp_enqueue_script( 'scribble_s-navigation', get_template_directory_uri() . '/assets/js/src/navigation.js', array(), _S_VERSION, true );
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
@@ -156,7 +158,7 @@ function scribble_s_scripts() {
 add_action( 'wp_enqueue_scripts', 'scribble_s_scripts' );
 
 /**
- * Implement the Custom Header feature.
+ * Implement the Custom header feature.
  */
 require get_template_directory() . '/inc/custom-header.php';
 

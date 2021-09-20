@@ -19,13 +19,22 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
-	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/main.css">
+	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?> . /assets/css/main.css">
 	<script src="https://kit.fontawesome.com/e006fb2a0a.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?> . /styles/css/hamburgers.min.css">
 
 	<?php wp_head(); ?>
+
+	<?php
+	global $post;
+	if (!empty($post)){
+		$post_slug=$post->post_name;
+	}
+	?>
+
 </head>
 
-<body <?php body_class(); ?>>
+<body id="scribble_s" <?php body_class(); ?>>
 	<?php wp_body_open(); ?>
 	<div id="page" class="site">
 		<nav id="top_util_nav" class="top_nav">
@@ -38,20 +47,11 @@
 			);
 			?>
 		</nav>
-		<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e('Skip to content', 'scribble_s'); ?></a>
-		<nav id="site-navigation" class="main-navigation">
-			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e('Primary Menu', 'scribble_s'); ?></button>
-			<?php
-			wp_nav_menu(
-				array(
-					'theme_location' => 'menu-1',
-					'menu_id'        => 'primary-menu',
-				)
-			);
-			?>
-		</nav><!-- #site-navigation -->
+
 
 		<header id="masthead" class="site-header">
+			<?php include 'template-parts/header/navigation.php'; ?>
+
 			<div class="site-branding">
 				<?php
 				the_custom_logo();
