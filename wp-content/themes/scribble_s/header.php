@@ -37,17 +37,7 @@
 <body id="scribble_s" <?php body_class(); ?>>
 	<?php wp_body_open(); ?>
 	<div id="page" class="site">
-		<nav id="top_util_nav" class="top_nav">
-			<?php
-			wp_nav_menu(
-					array(
-						'theme_location' => 'menu-3',
-						'menu_id' => 'utility-menu'
-					)
-			);
-			?>
-		</nav>
-
+		<!-- todo: Add div here to attempt a centered logo around a split nav -->
 
 		<header id="masthead" class="site-header">
 			<?php include 'template-parts/header/navigation.php'; ?>
