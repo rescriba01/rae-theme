@@ -12,7 +12,7 @@
 
 ?>
 <!doctype html>
-<html <?php language_attributes(); ?>>
+<html <?php language_attributes(); ?>
 
 <head>
 	<meta charset="<?php bloginfo('charset'); ?>">
@@ -28,6 +28,16 @@
 <body <?php body_class(); ?>>
 	<?php wp_body_open(); ?>
 	<div id="page" class="site">
+		<nav id="top_util_nav" class="top_nav">
+			<?php
+			wp_nav_menu(
+					array(
+						'theme_location' => 'menu-3',
+						'menu_id' => 'utility-menu'
+					)
+			);
+			?>
+		</nav>
 		<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e('Skip to content', 'scribble_s'); ?></a>
 		<nav id="site-navigation" class="main-navigation">
 			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e('Primary Menu', 'scribble_s'); ?></button>
@@ -57,7 +67,7 @@
 				$scribble_s_description = get_bloginfo('description', 'display');
 				if ($scribble_s_description || is_customize_preview()) :
 				?>
-					<p class="site-description"><?php echo $scribble_s_description; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped 
+					<p class="site-description"><?php echo $scribble_s_description; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
 												?></p>
 				<?php endif; ?>
 			</div><!-- .site-branding -->
