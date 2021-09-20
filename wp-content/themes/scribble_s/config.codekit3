@@ -17,6 +17,14 @@
       "oAP" : "\/.eslintrc",
       "oF" : 0
     },
+    "\/.nova\/Configuration.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/.nova\/Configuration-min.json",
+      "oF" : 0,
+      "oO" : 1,
+      "oS" : 1
+    },
     "\/.stylelintrc.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -41,25 +49,15 @@
       "oAP" : "\/archive.php",
       "oF" : 0
     },
-    "\/assets\/css\/main.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/css\/main-min.css",
+    "\/assets\/images\/bars-solid.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/images\/bars-solid.svg",
       "oF" : 0,
-      "pg" : 0
-    },
-    "\/assets\/css\/main.css.map" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/css\/main.css.map",
-      "oF" : 0
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/assets\/js\/customizer-min.js" : {
       "bF" : 6,
@@ -98,17 +96,6 @@
       "oA" : 0,
       "oAP" : "\/assets\/js\/navigation-min.js.map",
       "oF" : 0
-    },
-    "\/assets\/js\/src\/customizer.js" : {
-      "bF" : 6,
-      "ft" : 64,
-      "ma" : 2,
-      "mi" : 2,
-      "oA" : 0,
-      "oAP" : "\/assets\/js\/src\/customizer-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 1
     },
     "\/assets\/js\/src\/navigation.js" : {
       "bF" : 6,
@@ -373,20 +360,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/assets\/sass\/components\/_components.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 1,
-      "oA" : 1,
-      "oAP" : "\/assets\/sass\/css\/_components.css",
-      "oF" : 0,
-      "oS" : 3,
-      "pg" : 0,
-      "sct" : 0
-    },
     "\/assets\/sass\/components\/comments\/_comments.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -457,16 +430,16 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/assets\/sass\/components\/navigation\/_navigation.scss" : {
+    "\/assets\/sass\/components\/navigation\/hamburgers.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
-      "ma" : 1,
-      "oA" : 1,
-      "oAP" : "\/assets\/sass\/components\/css\/_navigation.css",
-      "oF" : 0,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/css\/hamburgers.min.css",
+      "oF" : 3,
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
@@ -597,20 +570,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/assets\/sass\/plugins\/woocommerce\/_components.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 1,
-      "oA" : 1,
-      "oAP" : "\/assets\/sass\/plugins\/css\/_components.css",
-      "oF" : 0,
-      "oS" : 3,
-      "pg" : 0,
-      "sct" : 0
-    },
     "\/assets\/sass\/plugins\/woocommerce\/_products.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -733,30 +692,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/footer.php",
-      "oF" : 0
-    },
-    "\/functions.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/functions.php",
-      "oF" : 0
-    },
-    "\/header.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/header.php",
-      "oF" : 0
-    },
-    "\/inc\/custom-header.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/inc\/custom-header.php",
       "oF" : 0
     },
     "\/inc\/customizer.php" : {
