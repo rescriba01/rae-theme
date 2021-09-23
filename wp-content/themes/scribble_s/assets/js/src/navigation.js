@@ -42,6 +42,9 @@
 		}
 	} );
 
+	// Check the viewport size add HTML5 global hidden attribute
+	const width = (window.innerWidth > 0) ? window.innerWidth : screen.width;
+
 	// Remove the .toggled class and set aria-expanded to false when the user clicks outside the navigation.
 	document.addEventListener( 'click', function( event ) {
 		const isClickInside = siteNavigation.contains( event.target );
