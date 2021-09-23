@@ -1,9 +1,13 @@
 #site-navigation {
+
+
   .main-navigation {
 	display: flex;
-	flex-flow: column;
-	width: 100%;
-	background-color: #76ad91;
+	flex-flow: row nowrap;
+	justify-content: space-around;
+	flex-basis: 300px;
+	align-items: center;
+	color: #fff;
 
 	ul {
 	  display: none;
