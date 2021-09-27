@@ -1,4 +1,4 @@
-<nav id=" " aria-label="Main">
+<nav id=" " aria-label="Main" hidden>
 	<div id="site-navigation" class="split__container">
 		<div class="left-nav__container">
 			<?php wp_nav_menu(
@@ -56,16 +56,15 @@
 	</button>
 </nav>
 
-<div id="mobile-nav">
+<nav id="mobile-nav">
 	<div class="contents">
-		<?php
-		wp_nav_menu(
+		<?php wp_nav_menu(
 			array(
 				'container'       => false,                           // remove nav container.
-				'container_class' => 'menu cf',                 // class of container (should you choose to use it).
-				'menu'            => __( 'Main Navigation', 'scribble_s' ),  // nav name.
-				'menu_class'      => 'nav main_nav desktop cf',               // adding custom nav class.
-				'theme_location'  => 'main_nav',                 // where it's located in the theme.
+				'container_class' => 'mobile cf',                 // class of container (should you choose to use it).
+				'menu'            => __( 'Mobile Nav', 'scribble_s' ),  // nav name.
+				'menu_class'      => 'nav main_nav mobile cf',               // adding custom nav class.
+				'theme_location'  => 'mobile-nav',                 // where it's located in the theme.
 				'before'          => '',                                 // before the menu.
 				'after'           => '',                                  // after the menu.
 				'link_before'     => '',                            // before each link.
@@ -76,5 +75,5 @@
 		);
 		?>
 	</div>
-</div>
+</nav>
 <!-- #site-navigation -->
