@@ -48,15 +48,14 @@
 			?>
 		</div>
 	</div>
+</nav>
 
+<nav id="mobile-nav">
 	<button class="hamburger hamburger--squeeze" type="button" aria-label="Menu" aria-controls="navigation">
 		<span class="hamburger-box">
 			<span class="hamburger-inner"></span>
 		</span>
 	</button>
-</nav>
-
-<nav id="mobile-nav">
 	<div class="contents">
 		<?php wp_nav_menu(
 			array(
@@ -64,7 +63,7 @@
 				'container_class' => 'mobile cf',                 // class of container (should you choose to use it).
 				'menu'            => __( 'Mobile Nav', 'scribble_s' ),  // nav name.
 				'menu_class'      => 'nav main_nav mobile cf',               // adding custom nav class.
-				'theme_location'  => 'mobile-nav',                 // where it's located in the theme.
+				'theme_location'  => 'mobile_nav',                 // where it's located in the theme.
 				'before'          => '',                                 // before the menu.
 				'after'           => '',                                  // after the menu.
 				'link_before'     => '',                            // before each link.

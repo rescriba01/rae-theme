@@ -47,7 +47,7 @@ if ( ! function_exists( 'scribble_s_setup' ) ) :
 		 */
 		add_theme_support( 'post-thumbnails' );
 
-		// This theme uses wp_nav_menu() in one location.
+		// This theme uses wp_nav_menu() in 3 locations.
 		register_nav_menus(
 			array(
 				'split_nav_left'  => esc_html__( 'Split Nav Left', 'scribble_s' ),
@@ -137,6 +137,19 @@ function scribble_s_widgets_init() {
 	);
 }
 add_action( 'widgets_init', 'scribble_s_widgets_init' );
+
+/**
+ * Add search form to mobile navigation
+ *
+ * @link https://developer.wordpress.org/themes/functionality/navigation-menus/
+ */
+
+function add_search_form($items, $args) {
+	if( $args->theme_location == 'mobile_nav' )
+		$items .= '<li class="search"><form role="search" method="get" id="searchform" action="'.home_url( '/' ).'"><input type="text" value="search" name="s" id="s" /><input type="submit" id="searchsubmit" value="'. esc_attr__('Search') .'" /></form></li>';
+	return $items;
+}
+add_filter('wp_nav_menu_items', 'add_search_form', 10, 2);
 
 /**
  * Enqueue scripts and styles.
