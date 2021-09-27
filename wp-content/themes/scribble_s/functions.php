@@ -50,9 +50,9 @@ if ( ! function_exists( 'scribble_s_setup' ) ) :
 		// This theme uses wp_nav_menu() in one location.
 		register_nav_menus(
 			array(
-				'split_nav_left' => esc_html__('Split Nav Left', 'scribble_s'),
-				'split_nav_right' => esc_html__('Split Nav Right', 'scribble_s'),
-				'mobile_nav' => esc_html__('Mobile Nav', 'scribble_s'),
+				'split_nav_left'  => esc_html__( 'Split Nav Left', 'scribble_s' ),
+				'split_nav_right' => esc_html__( 'Split Nav Right', 'scribble_s' ),
+				'mobile_nav'      => esc_html__( 'Mobile Nav', 'scribble_s' ),
 			)
 		);
 
@@ -145,9 +145,9 @@ function scribble_s_scripts() {
 	wp_enqueue_style( 'scribble_s-style', get_stylesheet_uri(), array(), _S_VERSION );
 	wp_style_add_data( 'scribble_s-style', 'rtl', 'replace' );
 
-	wp_enqueue_script( 'scribble_s-navigation', get_template_directory_uri() . '/assets/js/navigation-min.js', array('jquery'), _S_VERSION, true );
-	wp_enqueue_script( 'jq_compat', get_template_directory_uri() . '/assets/js/compatibility-min.js', array( 'jquery' ), '1.0.0', true );
-	wp_enqueue_script('scribble_s-scripts', get_template_directory_uri() . '/assets/js/src/main.js', array(), _S_VERSION, true );
+	wp_enqueue_script( 'scribble_s-navigation', get_template_directory_uri() . '/assets/js/navigation-min.js', array( 'jquery' ), _S_VERSION, true );
+	wp_enqueue_script( 'scribble_s-compatibility', get_template_directory_uri() . '/assets/js/compatibility-min.js', array( 'jquery' ), '1.0.0', true );
+	wp_enqueue_script( 'scribble_s-scripts', get_template_directory_uri() . '/assets/js/src/main.js', array(), _S_VERSION, true );
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
