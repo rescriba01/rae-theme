@@ -40,8 +40,6 @@
 <body id="scribble_s" <?php body_class(); ?>>
 	<?php wp_body_open(); ?>
 	<div id="page" class="site">
-		<!-- todo: Add div here to attempt a centered logo around a split nav -->
-
 
 		<header id="masthead" class="site-header">
 			<div class="container">
