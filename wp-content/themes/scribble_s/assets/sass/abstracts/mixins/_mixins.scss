@@ -1,3 +1,5 @@
+@use "sass:math";
+
 // Center block
 @mixin center-block {
 	display: block;
@@ -7,14 +9,16 @@
 
 // Column width with margin
 @mixin column-width($numberColumns: 3) {
-	width: map-get($columns, $numberColumns) - ( ( $columns__margin * ( $numberColumns - 1 ) ) / $numberColumns );
+	width: map-get( $columns, $numberColumns ) - ( ( $columns__margin * ( $numberColumns - 1 ) ) / $numberColumns );
 }
 
 // Responsive Ratio
 @mixin ratio($x,$y, $pseudo: false) {
 	$padding: unquote( ( $y / $x ) * 100 + "%" );
+
 	@if $pseudo {
-        &:before {
+        &::before {
+
             @include pseudo($pos: relative);
             width: 100%;
             padding-top: $padding;
@@ -46,13 +50,14 @@ $breakpoints:  (
     // If the breakpoint doesn't exist in the map.
   } @else {
     // Log a warning.
-    @warn 'Invalid breakpoint: #{$breakpoint}.';
+    @warn "Invalid breakpoint: #{$breakpoint}.";
   }
 }
 
 // Fluid Typography
 @function strip-unit( $value ) {
-  @return $value / ( $value * 0 + 1);
+
+  @return math.div($value, $value * 0 + 1);
 }
 
 @mixin fluid-font( $min-width, $max-width, $min-font-size, $max-font-size ) {
@@ -60,6 +65,7 @@ $breakpoints:  (
   $unit2: unit( $max-width );
   $unit3: unit( $min-font-size );
   $unit4: unit( $max-font-size );
+
   @if $unit1 == $unit2 and $unit1 == $unit3 and $unit1 == $unit4 {
     & {
       font-size: $min-font-size;
@@ -85,4 +91,14 @@ $breakpoints:  (
       }
     }
   }
+}
+
+// Transition animation
+@mixin transition($place, $time, $ease) {
+  -moz-transition: $place $time $ease;
+  -webkit-transition: $place $time $ease;
+  -o-transition-property: $place $time $ease;
+  -ms-transition-property: $place $time $ease;
+  transition-property: $place $time $ease;
+  transition: $place $time $ease;
 }
