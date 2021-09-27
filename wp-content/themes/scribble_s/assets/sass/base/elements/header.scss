@@ -1,15 +1,9 @@
 header#masthead {
   background-color: $color__brand-black-coral;
   z-index: 4;
-  position: fixed;
-  top: 0;
-  width: 100%;
 
   #mobile-nav {
     background-color: $color__background-body;
-    position: fixed;
-    width: 300px;
-    height: 100%;
     top: 0;
     right: -350px;
     z-index: 3;
