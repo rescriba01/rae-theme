@@ -15,7 +15,7 @@
 <html <?php language_attributes(); ?>
 
 <head>
-	<meta charset="<?php bloginfo('charset'); ?>">
+	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
@@ -30,8 +30,8 @@
 
 	<?php
 	global $post;
-	if (!empty($post)){
-		$post_slug=$post->post_name;
+	if ( ! empty( $post ) ) {
+		$post_slug = $post->post_name;
 	}
 	?>
 
@@ -44,25 +44,7 @@
 
 
 		<header id="masthead" class="site-header">
-			<?php include 'template-parts/header/navigation.php'; ?>
-
-			<div class="site-branding">
-				<?php
-				the_custom_logo();
-				if (is_front_page() && is_home()) :
-				?>
-					<h1 class="site-title"><a href="<?php echo esc_url(home_url('/')); ?>" rel="home"><?php bloginfo('name'); ?></a></h1>
-				<?php
-				else :
-				?>
-					<p class="site-title"><a href="<?php echo esc_url(home_url('/')); ?>" rel="home"><?php bloginfo('name'); ?></a></p>
-				<?php
-				endif;
-				$scribble_s_description = get_bloginfo('description', 'display');
-				if ($scribble_s_description || is_customize_preview()) :
-				?>
-					<p class="site-description"><?php echo $scribble_s_description; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
-												?></p>
-				<?php endif; ?>
-			</div><!-- .site-branding -->
+			<div class="container">
+				<?php require 'template-parts/header/navigation.php'; ?>
+			</div>
 		</header><!-- #masthead -->
