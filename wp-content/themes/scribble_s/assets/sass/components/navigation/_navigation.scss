@@ -1,21 +1,42 @@
-nav#mobile-nav {
-  display: flex;
-  position: relative;
-  //width: calc( 100vw - 3.12rem );
-  width: 100%;
-  height: 100vh;
-  top: 67px;
+nav {
+	border: 5px solid blue;
 
-  button {
-	background-color: $color__background-body;
-  }
-  .contents {
-	width: clamp(200px, 33.3vw, 100% - 33.3vw);
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		border: 3px solid black;
+
+		li {
+			border: 2px dotted green;
+
+			a {
+				background-color: yellow;
+			}
+			.search {
+				background-color: orchid;
+
+				form {
+					input {
+						border: 4px dashed orange;
+					}
+				}
+			}
+		}
+	}
+  /* display: flex;
+  position: relative;
+  width: calc( 100vw - 3.12rem );
+  height: 100vh;
+  top: 121px;
+  -webkit-box-shadow: -4px 0 20px 0 rgba( 0, 0, 0, 0.5 );
+  box-shadow: -4px 0 20px 0 rgba( 0, 0, 0, 0.5 ); */
+  
+  /* .contents {
 	position: relative;
 	background-color: $color__background-body;
 
 	ul {
-	  height: 100vh;
 	  list-style: none;
 	  margin: 0;
 	  padding: 0;
@@ -193,18 +214,18 @@ nav#mobile-nav {
 		padding: 1em 1.5em;
 	  }
 	}
-  }
+  } */
 }
 
-  .container {
+ /*  .container {
 
-	/*display: flex;
+	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 	align-items: flex-end;
 	justify-content: space-between;
 	padding: 2.4em 0 0;
-	position: relative;*/
+	position: relative;
 
 	a.logo {
 	  padding-bottom: 2.4em;
@@ -220,7 +241,7 @@ nav#mobile-nav {
 	  padding: 0;
 	  position: absolute;
 	  top: -100px;
-	  //right: 0;
+	  right: 0;
 	  z-index: 4;
 
 	  &:focus {
@@ -311,7 +332,7 @@ nav#mobile-nav {
 		  &:not(.btn) {
 			a {
 			  padding: 5px 0;
-			  // margin: -5px;
+			  margin: -5px;
 			}
 		  }
 		  &.menu-item-has-children {
@@ -325,13 +346,13 @@ nav#mobile-nav {
 			}
 		  }
 		  &.btn {
-			// padding: 0;
+			padding: 0;
 
 			&:last-child {
 			  margin-left: 0.75em;
 
 			  a {
-				// padding: 0.35em 2.3em !important;
+				padding: 0.35em 2.3em !important;
 			  }
 			}
 			a {
@@ -369,7 +390,7 @@ nav#mobile-nav {
 			}
 		  }
 		  &.location {
-			// padding: 0;
+			padding: 0;
 			margin-left: 1.55em;
 
 			a {
@@ -426,14 +447,14 @@ nav#mobile-nav {
 				margin-bottom: 0;
 
 				a {
-				  // padding: 0.55em 20px 0.55em;
+				  padding: 0.55em 20px 0.55em;
 				}
 			  }
 			  &:first-child {
 				margin-bottom: 0;
 
 				a {
-				  // padding: 0.55em 20px 0.55em;
+				  padding: 0.55em 20px 0.55em;
 				}
 			  }
 			  a {
@@ -462,3 +483,4 @@ nav#mobile-nav {
 	}
   }
 
+ */
