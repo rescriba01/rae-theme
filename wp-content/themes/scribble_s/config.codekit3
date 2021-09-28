@@ -23,14 +23,6 @@
       "oAP" : "\/.idea",
       "oF" : 0
     },
-    "\/.nova\/Configuration.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/.nova\/Configuration-min.json",
-      "oF" : 0,
-      "oO" : 1,
-      "oS" : 1
-    },
     "\/.stylelintrc.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -108,17 +100,6 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
-    },
-    "\/assets\/js\/compatibility-min.js" : {
-      "bF" : 6,
-      "ft" : 64,
-      "ma" : 2,
-      "mi" : 2,
-      "oA" : 0,
-      "oAP" : "\/assets\/js\/assets\/js\/compatibility-min-min.js",
-      "oF" : 2,
-      "sC" : 3,
-      "tS" : 1
     },
     "\/assets\/js\/customizer-min.js" : {
       "bF" : 6,
