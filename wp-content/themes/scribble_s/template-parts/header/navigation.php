@@ -1,22 +1,20 @@
-<nav id=" " aria-label="Main" hidden>
+<nav id="" class="hhnh-desktop-nav" aria-label="Main" hidden>
 	<div id="site-navigation" class="split__container">
-		<div class="left-nav__container">
-			<?php wp_nav_menu(
+		<?php wp_nav_menu(
 				array(
-					'container'       => false,                           // remove nav container.
-					'container_class' => 'menu-contents--left',                 // class of container (should you choose to use it).
-					'menu'            => __( 'Split Nav Left', 'scribble_s' ),  // nav name.
-					'menu_class'      => 'nav main-navigation nav--split split--left',               // adding custom nav class.
-					'theme_location'  => 'split_nav_left',                 // where it's located in the theme.
-					'before'          => '',                                 // before the menu.
-					'after'           => '',                                  // after the menu.
-					'link_before'     => '',                            // before each link.
-					'link_after'      => '',                             // after each link.
-					'depth'           => 0,                                   // limit the depth of the nav.
-					'fallback_cb'     => '',                             // fallback function (if there is one).
+					'theme_location'  => 'split_nav_left',                 								// where it's located in the theme.
+					'container'       => 'div',                           								// add/remove nav container.
+					'container_class' => 'nav-container--left',                 						// class of container (should you choose to use it).
+					'menu'            => __( 'Split Nav Left', 'scribble_s' ),  						// nav name.
+					'menu_class'      => 'main-navigation-contents nav--split split--left',               		// adding custom nav class.
+					'before'          => '',                                 							// before the menu.
+					'after'           => '',                                  							// after the menu.
+					'link_before'     => '',                            								// before each link.
+					'link_after'      => '',                             								// after each link.
+					'depth'           => 0,                                   							// limit the depth of the nav.
+					'fallback_cb'     => '',                             								// fallback function (if there is one).
 				)
 			); ?>
-		</div>
 
 		<div id="logo--centered">
 			<?php
@@ -28,51 +26,48 @@
 			?>
 		</div>
 
-		<div class="right-nav__container">
-			<?php
-			wp_nav_menu(
-				array(
-					'container'       => false,                           // remove nav container.
-					'container_class' => 'menu-contents--right',                 // class of container (should you choose to use it).
-					'menu'            => __( 'Split Nav Right', 'scribble_s' ),  // nav name.
-					'menu_class'      => 'nav main-navigation nav--split split--right',               // adding custom nav class.
-					'theme_location'  => 'split_nav_right',                 // where it's located in the theme.
-					'before'          => '',                                 // before the menu.
-					'after'           => '',                                  // after the menu.
-					'link_before'     => '',                            // before each link.
-					'link_after'      => '',                             // after each link.
-					'depth'           => 0,                                   // limit the depth of the nav.
-					'fallback_cb'     => '',                             // fallback function (if there is one).
-				)
-			);
-			?>
-		</div>
+		<?php
+		wp_nav_menu(
+			array(
+				'theme_location'  => 'split_nav_right',                 							// where it's located in the theme.
+				'container'       => 'div',                           								// add/remove nav container.
+				'container_class' => 'nav-container--right',                 						// class of container (should you choose to use it).
+				'menu'            => __( 'Split Nav Right', 'scribble_s' ),  						// nav name.
+				'menu_class'      => 'main-navigation-contents nav--split split--right',              		// adding custom nav class.
+				'before'          => '',                                 							// before the menu.
+				'after'           => '',                                  							// after the menu.
+				'link_before'     => '',                            								// before each link.
+				'link_after'      => '',                             								// after each link.
+				'depth'           => 0,                                   							// limit the depth of the nav.
+				'fallback_cb'     => '',                             								// fallback function (if there is one).
+			)
+		);
+		?>
+		
 	</div>
 </nav>
 
-<nav id="mobile-nav">
+<nav id="mobile-nav"  class="hhnh-mobile-nav">
 	<button class="hamburger hamburger--squeeze" type="button" aria-label="Menu" aria-controls="navigation">
 		<span class="hamburger-box">
 			<span class="hamburger-inner"></span>
 		</span>
 	</button>
-	<div class="contents">
-		<?php wp_nav_menu(
-			array(
-				'container'       => false,                           // remove nav container.
-				'container_class' => 'mobile cf',                 // class of container (should you choose to use it).
-				'menu'            => __( 'Mobile Nav', 'scribble_s' ),  // nav name.
-				'menu_class'      => 'nav main_nav mobile cf',               // adding custom nav class.
-				'theme_location'  => 'mobile_nav',                 // where it's located in the theme.
-				'before'          => '',                                 // before the menu.
-				'after'           => '',                                  // after the menu.
-				'link_before'     => '',                            // before each link.
-				'link_after'      => '',                             // after each link.
-				'depth'           => 0,                                   // limit the depth of the nav.
-				'fallback_cb'     => '',                             // fallback function (if there is one).
-			)
-		);
-		?>
-	</div>
+	<?php wp_nav_menu(
+		array(
+			'theme_location'  => 'mobile_nav',                 			// where it's located in the theme.
+			'menu'            => __( 'Mobile Nav', 'scribble_s' ),  	// nav name.
+			'menu_class'      => 'mobile-nav-contents main-nav mobile', // adding custom nav class.
+			'container'       => '',                           			// remove nav container.
+			'container_class' => '',                 					// class of container (should you choose to use it).
+			'before'          => '',                                 	// before the menu.
+			'after'           => '',                                  	// after the menu.
+			'link_before'     => '',                            		// before each link.
+			'link_after'      => '',                             		// after each link.
+			'depth'           => 0,                                   	// limit the depth of the nav.
+			'fallback_cb'     => '',                            		// fallback function (if there is one).
+		)
+	);
+	?>
 </nav>
 <!-- #site-navigation -->
