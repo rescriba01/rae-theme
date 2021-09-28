@@ -157,9 +157,7 @@ add_filter('wp_nav_menu_items', 'add_search_form', 10, 2);
 function scribble_s_scripts() {
 	wp_enqueue_style( 'scribble_s-style', get_stylesheet_uri(), array(), _S_VERSION );
 	wp_style_add_data( 'scribble_s-style', 'rtl', 'replace' );
-
-	wp_enqueue_script( 'scribble_s-navigation', get_template_directory_uri() . '/assets/js/navigation-min.js', array( 'jquery' ), _S_VERSION, true );
-	wp_enqueue_script( 'scribble_s-compatibility', get_template_directory_uri() . '/assets/js/compatibility-min.js', array( 'jquery' ), '1.0.0', true );
+	
 	wp_enqueue_script( 'scribble_s-scripts', get_template_directory_uri() . '/assets/js/src/main.js', array(), _S_VERSION, true );
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
