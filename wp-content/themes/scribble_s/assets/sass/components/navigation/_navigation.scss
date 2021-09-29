@@ -1,5 +1,6 @@
 nav {
   width: 50%;
+  line-height: 1.4;
   border: 5px solid blue;
 
 	ul {
@@ -12,13 +13,14 @@ nav {
 		border: 2px dotted green;
 
 		.search {
-		  background-color: orchid;
 
-		  form#searchform {
-			input {
-			  display: inline-block;
-			  width: 80%;
-			  border: 4px dashed orange;
+		  form {
+			&#searchform {
+			  input {
+				display: block;
+				width: 80%;
+				border: 4px dashed orange;
+			  }
 			}
 		  }
 		}
