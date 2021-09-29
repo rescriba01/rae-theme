@@ -102,3 +102,8 @@ $breakpoints:  (
   transition-property: $place $time $ease;
   transition: $place $time $ease;
 }
+
+// Logical properties for position and writing mode properties
+
+
+// todo: refactor positioning and writing mode properties using mixin
