@@ -5,8 +5,12 @@
 $font__main: -apple-system, BlinkMacSystemFont, 'Work Sans', Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 $font__head: -apple-system, BlinkMacSystemFont, 'Rubik', Helvetica, "Helvetica Neue", sans-serif;
 // stylelint-enable value-keyword-case
+$min-width: 320px;
+$max-width: 1280px;
+$min-font-size: 16px;
+$max-font-size: 24px;
 $font__code: monaco, consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
 $font__pre: "Courier 10 Pitch", courier, monospace;
-$font__line-height-body: 1.75;
+//$font__line-height-body: 1.75;
 $font__line-height-pre: 1.5;
 

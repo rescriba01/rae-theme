@@ -1,13 +1,3 @@
-$min-width: 320px;
-$max-width: 1280px;
-$min-font: 13px;
-$max-font: 28px;
-
-html {
-
-  @include fluid-font($min-width, $max-width, $min-font, $max-font);
-}
-
 body,
 button,
 input,
@@ -16,8 +6,7 @@ optgroup,
 textarea {
 	color: $color__text-main;
 	font-family: $font__main;
-	font-size: 1em;
-	line-height: $font__line-height-body;
+  @include fluid-font($min-width, $max-width, $min-font-size, $max-font-size)
 }
 
 @import "headings";
