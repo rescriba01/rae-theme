@@ -1,25 +1,28 @@
 nav {
-	border: 5px solid blue;
+  width: 50%;
+  border: 5px solid blue;
 
 	ul {
-		list-style-type: none;
-		margin: 0;
-		padding: 0;
-		border: 3px solid black;
+	  list-style-type: none;
+	  margin: 0;
+	  padding: 0;
+	  border: 3px solid black;
 
-		li {
-			border: 2px dotted green;
+	  li {
+		border: 2px dotted green;
 
-			.search {
-				background-color: orchid;
+		.search {
+		  background-color: orchid;
 
-				form {
-					input {
-						border: 4px dashed orange;
-					}
-				}
+		  form#searchform {
+			input {
+			  display: inline-block;
+			  width: 80%;
+			  border: 4px dashed orange;
 			}
+		  }
 		}
+	  }
 	}
 
   /* display: flex;
