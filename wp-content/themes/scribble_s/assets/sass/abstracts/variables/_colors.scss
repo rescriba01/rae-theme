@@ -7,19 +7,19 @@ $color__background-ins: #fff9c0;
 
 // HHNH Brand Colors
 $color__brand-orange: #f19d23; // orange peel
-$color__brand-black-coral:  	hsl(205, 23%, 33%); // black coral
+$color__brand-black-coral:  	hsl( 205, 23%, 33% ); // black coral
 
 
 $color__text-screen: #21759b;
 $color__text-input: #666;
 $color__text-input-focus: #000;
-$color__link: #000; //dark orchid
-$color__link-visited: darken( #873ecc, 25% );
-$color__link-hover: darken( #873ecc, 10% ); //midnightblue
+$color__link: $color__brand-black-coral; // brand colors
+$color__link-visited: lighten( $color__brand-black-coral, 30% );
+$color__link-hover: $color__brand-black-coral; //midnightblue
 $color__text-main: #000;
 
-$color__border-button: lighten(#c195f0, 10%);
-$color__border-button-hover: darken(#c195f0, 10%);
+$color__border-button: lighten( #c195f0, 10% );
+$color__border-button-hover: darken( #c195f0, 10% );
 $color__border-button-focus: #aaa #bbb #bbb;
 $color__border-input: #ccc;
 $color__border-abbr: #666;
