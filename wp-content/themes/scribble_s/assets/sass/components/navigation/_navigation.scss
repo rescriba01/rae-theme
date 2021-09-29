@@ -10,9 +10,6 @@ nav {
 		li {
 			border: 2px dotted green;
 
-			a {
-				background-color: yellow;
-			}
 			.search {
 				background-color: orchid;
 
@@ -24,6 +21,7 @@ nav {
 			}
 		}
 	}
+
   /* display: flex;
   position: relative;
   width: calc( 100vw - 3.12rem );
@@ -31,7 +29,7 @@ nav {
   top: 121px;
   -webkit-box-shadow: -4px 0 20px 0 rgba( 0, 0, 0, 0.5 );
   box-shadow: -4px 0 20px 0 rgba( 0, 0, 0, 0.5 ); */
-  
+
   /* .contents {
 	position: relative;
 	background-color: $color__background-body;
