@@ -2,7 +2,8 @@ body {
   margin: 0;
   padding: 0;
   background: $color__background-body; // Fallback for when there is no custom background color defined.
+
   p {
-    width: clamp(45ch, 50%, 75ch);
+    width: clamp( 45ch, 50%, 75ch );
   }
 }
