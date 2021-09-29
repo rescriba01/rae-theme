@@ -4,12 +4,13 @@
  * Handles toggling the navigation menu for small screens and enables TAB key
  * navigation support for dropdown menus.
  */
-( function() {
+
+const mobileNav = ( function navigation() {
 	const siteNavigation = document.getElementById( 'site-navigation' );
 	const mobileSiteNavigation = document.getElementById( 'mobile-nav mobile-site-navigation' );
 	// Return early if the navigation don't exist.
 	if ( ! siteNavigation && ! mobileSiteNavigation ) {
-		return;
+		return mobileNav;
 	}
 
 	const button = mobileSiteNavigation.getElementsByTagName( 'button' )[ 0 ];
@@ -43,7 +44,7 @@
 	} );
 
 	// Check the viewport size add HTML5 global hidden attribute
-	const width = (window.innerWidth > 0) ? window.innerWidth : screen.width;
+	// const width = (window.innerWidth > 0) ? window.innerWidth : screen.width;
 
 	// Remove the .toggled class and set aria-expanded to false when the user clicks outside the navigation.
 	document.addEventListener( 'click', function( event ) {
@@ -100,3 +101,5 @@
 		}
 	}
 }() );
+
+export default mobileNav;

@@ -152,17 +152,49 @@ function add_search_form($items, $args) {
 add_filter('wp_nav_menu_items', 'add_search_form', 10, 2);
 
 /**
+ * Add module attribute to script by applying a filter 'script_loader_tag'.
+ *
+ * @link https://wp-mix.com/defer-async-wordpress-enqueued-scripts/
+ * @link https://stackoverflow.com/questions/58931144/enqueue-javascript-with-type-module
+ */
+
+function scribble_s_add_type_attribute($tag, $handle, $src) {
+	//don't break WP Admin
+	if ( is_user_logged_in() ) {
+		return $tag;
+	}
+
+	// if not your script, do nothing and return original $tag
+	if ( 'scribble_s-scripts' !== $handle ) {
+		return $tag;
+	}
+	if (false === stripos($tag, 'async')) {
+		$tag = str_replace(' src', ' async="async" src', $tag);
+	}
+	if (false === stripos($tag, 'defer')) {
+		$tag = str_replace('<script ', '<script defer ', $tag);
+	}
+
+	return $tag;
+
+	// change the script tag by adding type="module" and return it.
+	return '<script type="module" src="' . esc_url( $src ) . '"></script>';
+}
+add_filter('script_loader_tag', 'scribble_s_add_type_attribute' , 10, 3);
+
+/**
  * Enqueue scripts and styles.
  */
 function scribble_s_scripts() {
 	wp_enqueue_style( 'scribble_s-style', get_stylesheet_uri(), array(), _S_VERSION );
 	wp_style_add_data( 'scribble_s-style', 'rtl', 'replace' );
-	
-	wp_enqueue_script( 'scribble_s-scripts', get_template_directory_uri() . '/assets/js/src/main.js', array(), _S_VERSION, true );
 
-	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
+	wp_enqueue_script( 'scribble_s-scripts', get_template_directory_uri() . '/assets/js/main.js', array(), _S_VERSION, false );
+	wp_enqueue_script( 'scribble_s-scripts', '//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js', array(), '3', true );
+
+	/*if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
-	}
+	}*/
 }
 add_action( 'wp_enqueue_scripts', 'scribble_s_scripts' );
 
