@@ -1,6 +1,8 @@
 nav {
   width: 50%;
-  line-height: 1.4;
+  padding: 1rem;
+  margin-top: 4.2rem;
+  line-height: 1.5;
   border: 5px solid blue;
 
 	ul {
@@ -12,14 +14,12 @@ nav {
 	  li {
 		border: 2px dotted green;
 
-		.search {
-
-		  form {
-			&#searchform {
-			  input {
-				display: block;
-				width: 80%;
-				border: 4px dashed orange;
+		&.search {
+		  form#searchform {
+			display: block;
+			input {
+			  &#searchfield{
+				max-width: 80%;
 			  }
 			}
 		  }
