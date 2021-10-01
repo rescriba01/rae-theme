@@ -1,7 +1,7 @@
 nav {
   width: 50%;
   height: 100vh;
-  margin-top: 4.2rem;
+  margin-top: 5.8rem;
   line-height: 1.5;
   border: 1px solid $color__border-button;
 
@@ -9,7 +9,7 @@ nav {
 	  list-style-type: none;
 	  margin: 0;
 	  padding: 0;
-	  //border: 3px solid black;
+	  background-color: $color__background-body;
 
 	  li {
 
@@ -17,7 +17,8 @@ nav {
 		  form#searchform {
 			display: block;
 			input {
-			  &#searchfield{
+			  margin-left: 1.5rem;
+			  &#searchfield {
 				max-width: 80%;
 			  }
 			}
