@@ -144,10 +144,13 @@ add_action( 'widgets_init', 'scribble_s_widgets_init' );
  * @link https://developer.wordpress.org/themes/functionality/navigation-menus/
  */
 
-function add_search_form($items, $args) {
+function add_search_form($item, $args) {
 	if( $args->theme_location == 'mobile_nav' )
-		$items .= '<li class="search"><form role="search" method="get" id="searchform" action="'.home_url( '/' ).'"><input type="text" value="search" name="s" id="searchfield" /><input type="submit" id="searchsubmit" value="'. esc_attr__('Search') .'" /></form></li>';
-	return $items;
+		$item .= '<li class="search"><form role="search" method="get" id="searchform" action="'.home_url( '/' ).'"><input type="text" value="search" name="s" id="searchfield" /><input type="submit" id="searchsubmit" value="'. esc_attr__('Search') .'" /></form></li>';
+		if( $args !== len  )
+			//todo: Write a way to move the $item to the top (-1 ?) of the nav menu
+			return $item;
+	return $item;
 }
 add_filter('wp_nav_menu_items', 'add_search_form', 10, 2);
 
