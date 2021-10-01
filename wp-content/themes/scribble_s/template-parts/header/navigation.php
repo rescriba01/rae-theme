@@ -43,16 +43,16 @@
 			)
 		);
 		?>
-		
+
 	</div>
 </nav>
 
 <nav id="mobile-nav"  class="hhnh-mobile-nav">
-	<button class="hamburger hamburger--squeeze" type="button" aria-label="Menu" aria-controls="navigation">
+	<!--<button class="hamburger hamburger--squeeze" type="button" aria-label="Menu" aria-controls="navigation">
 		<span class="hamburger-box">
 			<span class="hamburger-inner"></span>
 		</span>
-	</button>
+	</button>-->
 	<?php wp_nav_menu(
 		array(
 			'theme_location'  => 'mobile_nav',                 			// where it's located in the theme.
