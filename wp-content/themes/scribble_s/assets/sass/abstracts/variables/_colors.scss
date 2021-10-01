@@ -18,7 +18,7 @@ $color__link-visited: lighten( $color__brand-black-coral, 30% );
 $color__link-hover: $color__brand-black-coral; //midnightblue
 $color__text-main: #000;
 
-$color__border-button: lighten( #c195f0, 10% );
+$color__border-button: lighten( $color__brand-black-coral, 10% );
 $color__border-button-hover: darken( #c195f0, 10% );
 $color__border-button-focus: #aaa #bbb #bbb;
 $color__border-input: #ccc;
