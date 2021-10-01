@@ -7,9 +7,7 @@
 
 const mobileNav = ( function navigation() {
 	const siteNavigation = document.getElementById( 'site-navigation' );
-	const mobileSiteNavigation = document.getElementById( 'mobile-nav mobile-site-navigation' );
-	// Return early if the navigation don't exist.
-	if ( ! siteNavigation && ! mobileSiteNavigation ) {
+	if ( ! siteNavigation ) {
 		return mobileNav;
 	}
 
