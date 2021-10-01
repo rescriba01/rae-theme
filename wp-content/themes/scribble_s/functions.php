@@ -142,17 +142,20 @@ add_action( 'widgets_init', 'scribble_s_widgets_init' );
  * Add search form to mobile navigation
  *
  * @link https://developer.wordpress.org/themes/functionality/navigation-menus/
+ *
+ * @param $item
+ * @param $args
+ *
+ * @return mixed|string
  */
+function add_search_form( $item, $args ) {
+	if ( $args->theme_location === 'mobile_nav' ) {
+		$item .= '<li class="search"><form role="search" method="get" id="searchform" action="' . home_url( '/' ) . '"><input type="text" value="search" name="s" id="searchfield" /><input type="submit" id="searchsubmit" value="' . esc_attr__( 'Search' ) . '" /></form></li>';
+	}
 
-function add_search_form($item, $args) {
-	if( $args->theme_location == 'mobile_nav' )
-		$item .= '<li class="search"><form role="search" method="get" id="searchform" action="'.home_url( '/' ).'"><input type="text" value="search" name="s" id="searchfield" /><input type="submit" id="searchsubmit" value="'. esc_attr__('Search') .'" /></form></li>';
-		if( $args !== len  )
-			//todo: Write a way to move the $item to the top (-1 ?) of the nav menu
-			return $item;
 	return $item;
 }
-add_filter('wp_nav_menu_items', 'add_search_form', 10, 2);
+add_filter( 'wp_nav_menu_items', 'add_search_form', 10, 2 );
 
 /**
  * Add module attribute to script by applying a filter 'script_loader_tag'.
@@ -161,8 +164,8 @@ add_filter('wp_nav_menu_items', 'add_search_form', 10, 2);
  * @link https://stackoverflow.com/questions/58931144/enqueue-javascript-with-type-module
  */
 
-function scribble_s_add_type_attribute($tag, $handle, $src) {
-	//don't break WP Admin
+function scribble_s_add_type_attribute( $tag, $handle, $src ) {
+	// don't break WP Admin
 	if ( is_user_logged_in() ) {
 		return $tag;
 	}
@@ -171,19 +174,17 @@ function scribble_s_add_type_attribute($tag, $handle, $src) {
 	if ( 'scribble_s-scripts' !== $handle ) {
 		return $tag;
 	}
-	if (false === stripos($tag, 'async')) {
-		$tag = str_replace(' src', ' async="async" src', $tag);
+	if ( false === stripos( $tag, 'async' ) ) {
+		return str_replace( ' src', ' async="async" src', $tag );
 	}
-	if (false === stripos($tag, 'defer')) {
-		$tag = str_replace('<script ', '<script defer ', $tag);
+	if ( false === stripos( $tag, 'defer' ) ) {
+		return str_replace( '<script ', '<script defer ', $tag );
 	}
-
-	return $tag;
 
 	// change the script tag by adding type="module" and return it.
 	return '<script type="module" src="' . esc_url( $src ) . '"></script>';
 }
-add_filter('script_loader_tag', 'scribble_s_add_type_attribute' , 10, 3);
+add_filter( 'script_loader_tag', 'scribble_s_add_type_attribute', 10, 3 );
 
 /**
  * Enqueue scripts and styles.
@@ -195,7 +196,8 @@ function scribble_s_scripts() {
 	wp_enqueue_script( 'scribble_s-scripts', get_template_directory_uri() . '/assets/js/main.js', array(), _S_VERSION, false );
 	wp_enqueue_script( 'scribble_s-scripts', '//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js', array(), '3', true );
 
-	/*if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
+	/*
+	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
 	}*/
 }
