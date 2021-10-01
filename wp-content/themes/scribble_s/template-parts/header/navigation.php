@@ -1,20 +1,20 @@
 <nav id="" class="hhnh-desktop-nav" aria-label="Main" hidden>
 	<div id="site-navigation" class="split__container">
 		<?php wp_nav_menu(
-				array(
-					'theme_location'  => 'split_nav_left',                 								// where it's located in the theme.
-					'container'       => 'div',                           								// add/remove nav container.
-					'container_class' => 'nav-container--left',                 						// class of container (should you choose to use it).
-					'menu'            => __( 'Split Nav Left', 'scribble_s' ),  						// nav name.
-					'menu_class'      => 'main-navigation-contents nav--split split--left',               		// adding custom nav class.
-					'before'          => '',                                 							// before the menu.
-					'after'           => '',                                  							// after the menu.
-					'link_before'     => '',                            								// before each link.
-					'link_after'      => '',                             								// after each link.
-					'depth'           => 0,                                   							// limit the depth of the nav.
-					'fallback_cb'     => '',                             								// fallback function (if there is one).
-				)
-			); ?>
+			array(
+				'theme_location'  => 'split_nav_left',                                              // where it's located in the theme.
+				'container'       => 'div',                                                         // add/remove nav container.
+				'container_class' => 'nav-container--left',                                         // class of container (should you choose to use it).
+				'menu'            => __( 'Split Nav Left', 'scribble_s' ),                          // nav name.
+				'menu_class'      => 'main-navigation-contents nav--split split--left',                     // adding custom nav class.
+				'before'          => '',                                                            // before the menu.
+				'after'           => '',                                                            // after the menu.
+				'link_before'     => '',                                                            // before each link.
+				'link_after'      => '',                                                            // after each link.
+				'depth'           => 0,                                                             // limit the depth of the nav.
+				'fallback_cb'     => '',                                                            // fallback function (if there is one).
+			)
+		); ?>
 
 		<div id="logo--centered">
 			<?php
@@ -29,17 +29,17 @@
 		<?php
 		wp_nav_menu(
 			array(
-				'theme_location'  => 'split_nav_right',                 							// where it's located in the theme.
-				'container'       => 'div',                           								// add/remove nav container.
-				'container_class' => 'nav-container--right',                 						// class of container (should you choose to use it).
-				'menu'            => __( 'Split Nav Right', 'scribble_s' ),  						// nav name.
-				'menu_class'      => 'main-navigation-contents nav--split split--right',              		// adding custom nav class.
-				'before'          => '',                                 							// before the menu.
-				'after'           => '',                                  							// after the menu.
-				'link_before'     => '',                            								// before each link.
-				'link_after'      => '',                             								// after each link.
-				'depth'           => 0,                                   							// limit the depth of the nav.
-				'fallback_cb'     => '',                             								// fallback function (if there is one).
+				'theme_location'  => 'split_nav_right',                                             // where it's located in the theme.
+				'container'       => 'div',                                                         // add/remove nav container.
+				'container_class' => 'nav-container--right',                                        // class of container (should you choose to use it).
+				'menu'            => __( 'Split Nav Right', 'scribble_s' ),                         // nav name.
+				'menu_class'      => 'main-navigation-contents nav--split split--right',            // adding custom nav class.
+				'before'          => '',                                                            // before the menu.
+				'after'           => '',                                                            // after the menu.
+				'link_before'     => '',                                                            // before each link.
+				'link_after'      => '',                                                            // after each link.
+				'depth'           => 0,                                                             // limit the depth of the nav.
+				'fallback_cb'     => '',                                                            // fallback function (if there is one).
 			)
 		);
 		?>
@@ -53,19 +53,20 @@
 			<span class="hamburger-inner"></span>
 		</span>
 	</button>-->
-	<?php wp_nav_menu(
+	<?php
+	wp_nav_menu(
 		array(
-			'theme_location'  => 'mobile_nav',                 			// where it's located in the theme.
-			'menu'            => __( 'Mobile Nav', 'scribble_s' ),  	// nav name.
+			'theme_location'  => 'mobile_nav',                          // where it's located in the theme.
+			'menu'            => __( 'Mobile Nav', 'scribble_s' ),      // nav name.
 			'menu_class'      => 'mobile-nav-contents main-nav mobile', // adding custom nav class.
-			'container'       => '',                           			// remove nav container.
-			'container_class' => '',                 					// class of container (should you choose to use it).
-			'before'          => '',                                 	// before the menu.
-			'after'           => '',                                  	// after the menu.
-			'link_before'     => '',                            		// before each link.
-			'link_after'      => '',                             		// after each link.
-			'depth'           => 0,                                   	// limit the depth of the nav.
-			'fallback_cb'     => '',                            		// fallback function (if there is one).
+			'container'       => '',                                    // remove nav container.
+			'container_class' => '',                                    // class of container (should you choose to use it).
+			'before'          => '',                                    // before the menu.
+			'after'           => '',                                    // after the menu.
+			'link_before'     => '',                                    // before each link.
+			'link_after'      => '',                                    // after each link.
+			'depth'           => 0,                                     // limit the depth of the nav.
+			'fallback_cb'     => '',                                    // fallback function (if there is one).
 		)
 	);
 	?>
