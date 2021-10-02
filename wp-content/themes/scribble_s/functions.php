@@ -135,6 +135,17 @@ function scribble_s_widgets_init() {
 			'after_title'   => '</h2>',
 		)
 	);
+	register_sidebar(
+		array(
+			'name'          => esc_html__( 'Search', 'scribble_s' ),
+			'id'            => 'search-widget',
+			'description'   => esc_html__( 'This is some default text.', 'scribble_s' ),
+			'before_widget' => '<div id="%1$s" class="widget %2$s">',
+			'after_widget'  => '</div>',
+			'before_title'  => '<h2 class="widget-title">',
+			'after_title'   => '</h2>',
+		)
+	);
 }
 add_action( 'widgets_init', 'scribble_s_widgets_init' );
 
@@ -148,14 +159,14 @@ add_action( 'widgets_init', 'scribble_s_widgets_init' );
  *
  * @return mixed|string
  */
-function add_search_form( $item, $args ) {
+/*function add_search_form( $item, $args ) {
 	if ( $args->theme_location === 'mobile_nav' ) {
 		$item .= '<li class="search"><form role="search" method="get" id="searchform" action="' . home_url( '/' ) . '"><input type="text" value="search" name="s" id="searchfield" /><input type="submit" id="searchsubmit" value="' . esc_attr__( 'Search' ) . '" /></form></li>';
 	}
 
 	return $item;
 }
-add_filter( 'wp_nav_menu_items', 'add_search_form', 10, 2 );
+add_filter( 'wp_nav_menu_items', 'add_search_form', 10, 2 );*/
 
 /**
  * Add module attribute to script by applying a filter 'script_loader_tag'.
