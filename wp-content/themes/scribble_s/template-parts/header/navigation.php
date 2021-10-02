@@ -48,7 +48,7 @@
 </nav>
 
 <nav id="mobile-nav"  class="hhnh-mobile-nav">
-	<?php get_search_form(); ?>
+	<?php dynamic_sidebar('Search'); ?>
 	<?php
 	wp_nav_menu(
 		array(
