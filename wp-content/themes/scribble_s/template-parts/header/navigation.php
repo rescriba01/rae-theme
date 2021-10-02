@@ -48,11 +48,7 @@
 </nav>
 
 <nav id="mobile-nav"  class="hhnh-mobile-nav">
-	<!--<button class="hamburger hamburger--squeeze" type="button" aria-label="Menu" aria-controls="navigation">
-		<span class="hamburger-box">
-			<span class="hamburger-inner"></span>
-		</span>
-	</button>-->
+	<?php get_search_form(); ?>
 	<?php
 	wp_nav_menu(
 		array(
