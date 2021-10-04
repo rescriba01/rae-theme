@@ -5,6 +5,15 @@ nav {
   margin-top: 4.2rem;
   border: 1px solid $color__background-hr;
   line-height: 1.5;
+  @include mq.mq($from: tablet) {
+	.hhnh-desktop-nav {
+	  height: 15vh;
+	  display: flex;
+	  flex-flow: row nowrap;
+	  justify-content: space-between;
+	  align-items: center;
+	}
+  };
 
   .widget_search {
 	margin-bottom: 1em;
@@ -37,15 +46,18 @@ nav {
 	  }
 	}
   }
-
   ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	//background-color: $color__background-body;
-
 	li {
+	  &.hhnh-desktop-nav {
+		display: inline-block;
+	  }
 
 	}
   }
+
 }
+
