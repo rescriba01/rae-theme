@@ -20,9 +20,11 @@
     "@wordpress/scripts": "^12.1.0",
     "@wordpress/stylelint-config": "^19.1.0",
     "dir-archiver": "^1.1.1",
+    "eyeglass": "^3.0.3",
     "modularscale-sass": "^3.0.10",
     "node-sass": "^4.14.1",
-    "rtlcss": "^2.5.0"
+    "rtlcss": "^2.5.0",
+    "sass-mq": "^5.0.1"
   },
   "rtlcssConfig": {
     "options": {
@@ -45,5 +47,8 @@
     "lint:js": "wp-scripts lint-js 'js/*.js'",
     "move": "mv ./dist/css/main.css.map ./dist/maps/main.css.map",
     "bundle": "dir-archiver --src . --dest ../_s.zip --exclude .DS_Store .stylelintrc.json .eslintrc .git .gitattributes .github .gitignore README.md composer.json composer.lock node_modules vendor package-lock.json package.json .travis.yml phpcs.xml.dist sass main.css.map"
+  },
+  "dependencies": {
+    "@mcaskill/sass-mq": "^5.0.1"
   }
 }
