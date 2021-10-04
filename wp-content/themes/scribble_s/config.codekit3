@@ -591,6 +591,21 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/assets\/sass\/components\/mixins\/_mq.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 1,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 1,
+      "oA" : 1,
+      "oAP" : "\/assets\/sass\/components\/css\/_mq.css",
+      "oF" : 0,
+      "oS" : 3,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/assets\/sass\/components\/navigation\/_navigation.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -24118,7 +24133,7 @@
     "npmCreatePackageLock" : 1,
     "npmInstallOptionalDependencies" : 0,
     "npmSaveExactVersion" : 0,
-    "npmTargetDependencyListType" : 1,
+    "npmTargetDependencyListType" : 2,
     "overrideExternalServerCSS" : 0,
     "previewPathAddition" : "",
     "purgeCSS" : {
