@@ -9418,6 +9418,14 @@
       "oAP" : "\/wp-content\/plugins\/all-in-one-wp-migration\/readme.txt",
       "oF" : 0
     },
+    "\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/index.html",
+      "oF" : 0
+    },
     "\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/index.php" : {
       "cB" : 0,
       "ft" : 8192,
