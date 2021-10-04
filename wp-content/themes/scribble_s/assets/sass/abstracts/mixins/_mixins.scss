@@ -28,6 +28,32 @@
     }
 }
 
+// Mobile-first Media Queries
+$breakpoints:  (
+        "mobile": 20em, // 320px
+        "sm": 37.5em, // 600px
+        "tablet": 48em, // 768px
+        "desktop": 61.25em, // 980px
+        "wide": 81.25em, // 1300px
+        "xxl": 90em // 1440px
+);
+
+@mixin respond-above($breakpoint) {
+  // If the breakpoint exists in the map.
+  @if map-has-key($breakpoints, $breakpoint) {
+    // Get the breakpoint value.
+    $breakpoint-value: map-get($breakpoints, $breakpoint);
+    // Write the media query.
+    @media (min-width: $breakpoint-value) {
+      @content;
+    }
+    // If the breakpoint doesn't exist in the map.
+  } @else {
+    // Log a warning.
+    @warn 'Invalid breakpoint: #{$breakpoint}.';
+  }
+}
+
 // Fluid Typography
 @function strip-unit( $value ) {
 
