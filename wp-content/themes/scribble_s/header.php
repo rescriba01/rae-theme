@@ -22,6 +22,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<script src="https://kit.fontawesome.com/e006fb2a0a.js" crossorigin="anonymous"></script>
 
+	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/hamburgers.min.css">
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/remedy.css">
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/main.css">
 
@@ -42,7 +43,5 @@
 	<div id="page" class="site">
 
 		<header id="masthead" class="site-header">
-			<div class="container">
-				<?php require 'template-parts/header/navigation.php'; ?>
-			</div>
+			<?php require 'template-parts/header/navigation.php'; ?>
 		</header><!-- #masthead -->
