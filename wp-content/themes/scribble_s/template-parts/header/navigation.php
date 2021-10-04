@@ -1,11 +1,11 @@
-<nav id="" class="hhnh-desktop-nav" aria-label="Main">
+<nav id="dt_nav" aria-label="Main">
 	<?php wp_nav_menu(
 		array(
 			'theme_location'  => 'split_nav_left',                                              // where it's located in the theme.
-			'container'       => 'div',                                                         // add/remove nav container.
-			'container_class' => 'nav-container--left',                                         // class of container (should you choose to use it).
+			'container'       => '',                                                         // add/remove nav container.
+			'container_class' => '',                                         // class of container (should you choose to use it).
 			'menu'            => __( 'Split Nav Left', 'scribble_s' ),                          // nav name.
-			'menu_class'      => 'main-navigation-contents nav--split split--left',                     // adding custom nav class.
+			'menu_class'      => 'main-nav--desktop nav--split split--left',                     // adding custom nav class.
 			'before'          => '',                                                            // before the menu.
 			'after'           => '',                                                            // after the menu.
 			'link_before'     => '',                                                            // before each link.
@@ -17,22 +17,23 @@
 
 	<div id="logo--centered">
 		<?php
-		$custom_logo_id = get_theme_mod( 'custom_logo' );
+/*		$custom_logo_id = get_theme_mod( 'custom_logo' );
 		$logo           = wp_get_attachment_image_src( $custom_logo_id, 'full' );
 		if ( has_custom_logo() ) {
 			echo '<a href="/" class="logo"><img src="' . esc_url( $logo[0] ) . '" alt="HomeHelpNH"></a>';
 		}
-		?>
+		*/?>
+		<a href="">Home<span>Help</span>NH<img src="https://via.placeholder.com/525x230.png/000" alt=""></a>
 	</div>
 
 	<?php
 	wp_nav_menu(
 		array(
 			'theme_location'  => 'split_nav_right',                                             // where it's located in the theme.
-			'container'       => 'div',                                                         // add/remove nav container.
-			'container_class' => 'nav-container--right',                                        // class of container (should you choose to use it).
+			'container'       => '',                                                         // add/remove nav container.
+			'container_class' => '',                                        // class of container (should you choose to use it).
 			'menu'            => __( 'Split Nav Right', 'scribble_s' ),                         // nav name.
-			'menu_class'      => 'main-navigation-contents nav--split split--right',            // adding custom nav class.
+			'menu_class'      => 'main-nav--desktop nav--split split--right',            // adding custom nav class.
 			'before'          => '',                                                            // before the menu.
 			'after'           => '',                                                            // after the menu.
 			'link_before'     => '',                                                            // before each link.
@@ -44,7 +45,7 @@
 	?>
 </nav>
 
-<nav id="mobile-nav"  class="hhnh-mobile-nav">
+<nav id="mobile_nav"  class="hhnh-mobile-nav">
 	<?php dynamic_sidebar('Search'); ?>
 	<?php
 	wp_nav_menu(
