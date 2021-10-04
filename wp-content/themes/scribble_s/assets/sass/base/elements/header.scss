@@ -1,9 +1,5 @@
 header#masthead {
-  height: 10vh;
+  width: 100vw;
+  //height: 10vh;
   background-color: $color__brand-black-coral;
-
-  .container {
-    position: absolute;
-    width: 100%;
-  }
 }
